@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ef253e85d4b2fddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "690c2a1124d213ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2223e88d22b45278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowlodge/Contas de Teste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contas de Teste"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b7faa8f67d72b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "543a46adfd3bec66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52dfd2b88bb0c6af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42357446cb304ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "paas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "abb9ce7a035b91b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9b6cae1b7f9ea9fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac64009b8d99c1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0173375c11a9c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Issues/HPXAPPS-43217.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HPXAPPS-43217"
+            }
+          },
+          {
+            "id": "fab69e37d30db706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sprints/SPRINT 25.08-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SPRINT 25.08-2"
+            }
+          },
+          {
+            "id": "a175362d9a07a4e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c336a9a3188e5fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sprints/SPRINT 25.08-2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SPRINT 25.08-2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "2223e88d22b45278",
+  "lastOpenFiles": [
+    "quick notes/Treinamento Obrigatorio.md",
+    "knowlodge/Cloud Devices.md",
+    "knowlodge/credenciais.md",
+    "Issues/HPXAPPS-46038.md",
+    "Issues/HPXAPPS-43927 1.md",
+    "INDICE.md",
+    "images/20251014-1838-55.8979532.mp4",
+    "Issues/HPXAPPS-42854.md",
+    "Issues/HPXAPPS-44098.md",
+    "Issues/HPXAPPS-46792.md",
+    "Issues/HPXAPPS-41415.md",
+    "Issues/HPXAPPS-41571.md",
+    "Issues/HPXAPPS-41627.md",
+    "Issues/HPXAPPS-43927.md",
+    "knowlodge/Devices Serial Number.md",
+    "Issues/HPXAPPS-45416.md",
+    "Refinamento.md",
+    "quick notes/Filtro de Bugs.md",
+    "quick notes/daily_09-10-25.md",
+    "quick notes/Build.md",
+    "Issues/HPXAPPS-42869.md",
+    "knowlodge/code improvment.md",
+    "knowlodge/Contas de Teste.md",
+    "knowlodge/DevTools.md",
+    "knowlodge/Lokalise.md",
+    "knowlodge/Glossário.md",
+    "knowlodge/Feature Flags FF.md",
+    "Issues",
+    "images/Pasted image 20251001120331.png",
+    "images/Pasted image 20251001120259.png",
+    "images/Pasted image 20250821095842.png",
+    "images/Pasted Image 20250905105933_783.png",
+    "images/Pasted Image 20250905105909_885.png",
+    "images/Pasted Image 20250905104402_907.png",
+    "images/Pasted Image 20250905104209_801.png",
+    "images/Pasted image 20250903115825.png",
+    "images/Pasted image 20250903115724.png",
+    "images/Pasted Image 20250901154341_921.png",
+    "Excalidraw",
+    "images",
+    "quick notes",
+    "sprints",
+    "knowlodge"
+  ]
+}

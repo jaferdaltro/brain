@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "606968ab8bf15934",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9fa870e39da8bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6c2e3d422d79a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardskills/conhecimentos indispensaveis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conhecimentos indispensaveis"
+            }
+          },
+          {
+            "id": "6cfcd20596f02127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1223218e5956e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3fb0154f76f547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0248eb03af76925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "57f32d2e3cfee79a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e60c5fbb0c7c364f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.78123092651367
+  },
+  "right": {
+    "id": "17fe950676c8f9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeec395560bccca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6243a0bb8d01cbdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2026-09-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a8dabc737ac8e23b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2025-11-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-19"
+            }
+          },
+          {
+            "id": "f1cc1b3f72d66af5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "892bc707100c2599",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f66dd95a68c19436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlantico/Impacta/Organização Digital.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cf91ea77eae6708b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4086a9be36befaa5",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 597.3515625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6cfcd20596f02127",
+  "lastOpenFiles": [
+    "Hardskills/conhecimentos indispensaveis.md",
+    "conflict-files-obsidian-git.md",
+    "Atlantico/CPQD/Plano de Estudo.md",
+    "Atlantico/Vagas Internas/Pesquisador em IA - CPQD.md",
+    "daily/2026-09-11.md",
+    "Atlantico/PDI.md",
+    "Atlantico/Férias.md",
+    "quick notes/Skills.md",
+    "quick notes/Realocacao.md",
+    "Atlantico/Vagas Internas",
+    "daily/2026-09-15.md",
+    "daily/2026-08-20.md",
+    "daily/2026-09-23.md",
+    "daily/2026-09-24.md",
+    "daily/2026-09-22.md",
+    "daily/2026-08-20 1.md",
+    "daily/2026-08-20 - cópia.md",
+    "daily/2026-09-23 - cópia.md",
+    "images/Pasted image 20260910144652.png",
+    "images",
+    "Incoming/448 - Jordan Peterson.md",
+    "Incoming/Trafego Pago/Aula_2.md",
+    "Incoming/Trafego Pago/Aula_1.md",
+    "Incoming/Trafego Pago",
+    "Incoming/Principal Mapa Mental.md",
+    "daily/2026-09-06.md",
+    "Incoming/01 - Projetos/Transitando/todo.md",
+    "Incoming/01 - Projetos/Transitando/Screenshot 2026-09-17 at 2.49.42 PM.png",
+    "Incoming/01 - Projetos/Transitando/Pasted image 20260917144952.png",
+    "Incoming/01 - Projetos/Transitando/lexml.md",
+    "Incoming/01 - Projetos/Transitando/canais de informacoes.md",
+    "Incoming/01 - Projetos/Transitando",
+    "Incoming/00 - Inbox/Minha Empresa de Tecnologia.md",
+    "Incoming/00 - Inbox/Marketing Digital",
+    "Hardskills/Pasted image 20260923170753.png",
+    "Atlantico",
+    "MMI/Untitled.base",
+    "MMI/Untitled 1.base",
+    "MMI/Aula 1 - Alianca",
+    "MMI",
+    "Atlantico/instant ink/images/Pasted image 20241003160258.png",
+    "Atlantico/instant ink/images/Pasted image 20241003160144.png",
+    "Atlantico/instant ink/images/Pasted image 20241003155954.png",
+    "Atlantico/instant ink/images/Pasted image 20241003155938.png",
+    "Atlantico/instant ink/images/Pasted image 20241003134213.png",
+    "Business Machine/01-ideia/College/Pasted image 20260628130347.png"
+  ]
+}

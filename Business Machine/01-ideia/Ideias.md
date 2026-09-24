@@ -1,0 +1,2 @@
+- **Apps de Agendamento:** Sistemas simples de reserva para prestadores de serviços locais (manicure, personal trainers).
+- **Guia de Negócios Locais:** Aplicativos que listam serviços e comércios de um bairro específico, monetizados com anúncios locais.

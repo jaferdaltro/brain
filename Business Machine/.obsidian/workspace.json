@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c4eb68b893a3b26f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a40e0b67830a5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbfdead2cbd4c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/nova_atividade.png"
+              },
+              "icon": "lucide-image",
+              "title": "nova_atividade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a637a1a4b3b45024",
+    "type": "split",
+    "children": [
+      {
+        "id": "44753c1990ba38cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eceff2eea38271d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "aceeac53c1e008eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "roles",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec1b548321a245e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "e1457ccb167d1182",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5f14d0dfec9597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f988acacdc76e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-ideia/perfil/Drawing 2025-08-15 07.40.17.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Drawing 2025-08-15 07.40.17.excalidraw"
+            }
+          },
+          {
+            "id": "34d4de4348af1dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-ideia/perfil/Drawing 2025-08-15 07.40.17.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Drawing 2025-08-15 07.40.17.excalidraw"
+            }
+          },
+          {
+            "id": "8c2cabb6164ec895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02701d1885006ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-conteudo/Forget Dropshipping. This Side Hustle Is 10x Easier (and Smarter).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Forget Dropshipping. This Side Hustle Is 10x Easier (and Smarter)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "dbfdead2cbd4c1fd",
+  "lastOpenFiles": [
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/nova_atividade_2.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/nova_atividade_3.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/tela de aprovacao.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/nova_atividade.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/index_2.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/index.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/engajamento.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/engajamento_2.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/dicas.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/detalhes.png",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Atividades/celular_tarefa_casa.png",
+    "02-produto/Agenda Escolar/Agenda Escolar.md",
+    "02-produto/Agenda Escolar/planejamento.md",
+    "02-produto/Agenda Escolar/modelagem.md",
+    "01-ideia/Venda de Produtos Personalizados.md",
+    "01-ideia/Ideias.md",
+    "01-ideia/chatbot.md",
+    "01-ideia/Portfólio/content.md",
+    "01-ideia/perfil/profile.md",
+    "Ferramentas/content.md",
+    "05-conteudo/Agenda Escolar.md",
+    "02-produto/Agenda Escolar/prompt.md",
+    "Excalidraw/Drawing 2026-04-09 09.57.37.excalidraw.md",
+    "Rails Session and Dashboard.md",
+    "02-produto/Transito/PROMPT.md",
+    "02-produto/Transito/Transito.md",
+    "02-produto/Transito/imagens",
+    "Ferramentas",
+    "01-ideia/Portfólio",
+    "01-ideia/diario do aluno.md",
+    "comum/conteudo/video-cloude-code/conteudo.md",
+    "comum/conteudo/conteudo.md",
+    "comum/conteudo/video-cloude-code",
+    "comum/conteudo/core/Ideias de chatbot.md",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Saude",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Mural de fotos",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Eventos",
+    "02-produto/Agenda Escolar/Funcionalidades/untitled folder",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Plano de aula",
+    "02-produto/Agenda Escolar/Funcionalidades - imagens/Dashboard",
+    "prompt.md",
+    "02-produto/Agenda Escolar/Funcionalidades/Comunicados.md",
+    "02-produto/Agenda Escolar/Funcionalidades/Atividade.md",
+    "02-produto/Agenda Escolar/Funcionalidades/Descricao.md",
+    "Excalidraw/Drawing 2026-01-18 09.15.25.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled.canvas"
+  ]
+}
