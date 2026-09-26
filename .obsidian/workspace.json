@@ -11,14 +11,12 @@
             "id": "13d77db93940b688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Business Machine/01-ideia/dicas.md",
-                "mode": "source",
-                "source": false
+                "file": "Business Machine/02-produto/Transito/Transito.md"
               },
-              "icon": "lucide-file",
-              "title": "dicas"
+              "icon": "excalidraw-icon",
+              "title": "Transito"
             }
           }
         ]
@@ -214,8 +212,11 @@
   },
   "active": "13d77db93940b688",
   "lastOpenFiles": [
-    "Business Machine/01-ideia/Ideias.md",
+    "Business Machine/02-produto/Transito/imagens/Pasted Image 20260314110640_401.png",
+    "Business Machine/02-produto/Transito/imagens/Pasted Image 20260314110606_674.png",
+    "Business Machine/02-produto/Transito/imagens/Pasted Image 20260314110424_726.png",
     "Business Machine/01-ideia/dicas.md",
+    "Business Machine/01-ideia/Ideias.md",
     "Business Machine/01-ideia/Venda de Produtos Personalizados.md",
     "Hardskills/conhecimentos indispensaveis.md",
     "conflict-files-obsidian-git.md",
@@ -243,7 +244,6 @@
     "Incoming/Trafego Pago",
     "Incoming/Principal Mapa Mental.md",
     "daily/2026-09-06.md",
-    "Incoming/01 - Projetos/Transitando/todo.md",
     "Incoming/01 - Projetos/Transitando/Screenshot 2026-09-17 at 2.49.42 PM.png",
     "Incoming/01 - Projetos/Transitando/Pasted image 20260917144952.png",
     "Incoming/01 - Projetos/Transitando",
@@ -257,8 +257,6 @@
     "Atlantico/instant ink/images/Pasted image 20241003160258.png",
     "Atlantico/instant ink/images/Pasted image 20241003160144.png",
     "Atlantico/instant ink/images/Pasted image 20241003155954.png",
-    "Atlantico/instant ink/images/Pasted image 20241003155938.png",
-    "Atlantico/instant ink/images/Pasted image 20241003134213.png",
-    "Business Machine/01-ideia/College/Pasted image 20260628130347.png"
+    "Atlantico/instant ink/images/Pasted image 20241003155938.png"
   ]
 }
