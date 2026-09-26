@@ -11,10 +11,14 @@
             "id": "13d77db93940b688",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Business Machine/01-ideia/dicas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "dicas"
             }
           }
         ]
@@ -209,6 +213,9 @@
   },
   "active": "13d77db93940b688",
   "lastOpenFiles": [
+    "Business Machine/01-ideia/Ideias.md",
+    "Business Machine/01-ideia/dicas.md",
+    "Business Machine/01-ideia/Venda de Produtos Personalizados.md",
     "Hardskills/conhecimentos indispensaveis.md",
     "conflict-files-obsidian-git.md",
     "Atlantico/CPQD/Plano de Estudo.md",
@@ -238,10 +245,7 @@
     "Incoming/01 - Projetos/Transitando/todo.md",
     "Incoming/01 - Projetos/Transitando/Screenshot 2026-09-17 at 2.49.42 PM.png",
     "Incoming/01 - Projetos/Transitando/Pasted image 20260917144952.png",
-    "Incoming/01 - Projetos/Transitando/lexml.md",
-    "Incoming/01 - Projetos/Transitando/canais de informacoes.md",
     "Incoming/01 - Projetos/Transitando",
-    "Incoming/00 - Inbox/Minha Empresa de Tecnologia.md",
     "Incoming/00 - Inbox/Marketing Digital",
     "Hardskills/Pasted image 20260923170753.png",
     "Atlantico",
