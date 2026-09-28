@@ -11,12 +11,14 @@
             "id": "13d77db93940b688",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Business Machine/02-produto/Transito/Transito.md"
+                "file": "Atlantico/Impacta/Agenda.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Transito"
+              "icon": "lucide-file",
+              "title": "Agenda"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.78123092651367,
-    "collapsed": true
+    "width": 214.78123092651367
   },
   "right": {
     "id": "17fe950676c8f9fd",
