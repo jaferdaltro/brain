@@ -1,0 +1,16 @@
+{
+  "styles": {
+    "Atlantico": {
+      "backgroundColor": "#4e52d0",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Business Machine": {
+      "backgroundColor": "#49ca7b",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
