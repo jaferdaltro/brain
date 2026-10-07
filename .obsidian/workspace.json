@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d688a564bb9bccb6",
+        "id": "f252105ceac6f1b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a7ccb623ba5a4c",
+            "id": "6a9b547cbf73026d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "daily/2026-10-06.md",
-                "bFile": "daily/2026-10-06.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-10-06  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.3515625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5a7ccb623ba5a4c",
+  "active": "6a9b547cbf73026d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "daily/2026-10-06.md",
