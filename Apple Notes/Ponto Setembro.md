@@ -1,0 +1,4 @@
+---
+apple-notes-id: 3F4CA137-C319-4C65-B9EC-77E937C070C1
+---
+Dia 2 e 08:03

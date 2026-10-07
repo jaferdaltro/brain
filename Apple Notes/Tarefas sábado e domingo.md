@@ -1,0 +1,15 @@
+---
+apple-notes-id: EAC4C78C-122D-4E0A-B853-F6EDE1FF9ABD
+---
+- [ ] Curso react 
+- [ ] Planejamento mensal 
+- [ ] Planejamento English 
+- [ ] Curso serradura 
+- [ ] Sistema padaria 
+- [ ] Notion
+- [x] Planejamento semanal 
+- [x] Leitura Bíblica até dia 06 de agosto
+- [x] Planejamento leitura livro 
+- [x] Planejamento Leitura Bíblica 
+- [x] Planejamento MMI
+- [x] Contas

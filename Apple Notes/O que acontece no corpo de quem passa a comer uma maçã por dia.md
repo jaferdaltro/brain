@@ -1,0 +1,15 @@
+---
+apple-notes-id: c7d8cd1e-cd4f-443e-b95a-928ee977ca6e
+---
+#maca #saude #memoria 
+
+Não é novidade que as frutas são ricas em vitaminas, minerais, fibras e antioxidantes. E entre os benefícios da maçã, que é uma das mais populares no Brasil e no mundo, não é diferente. Ao consumir uma unidade dela por dia, já é possível se proteger até mesmo de algumas doenças.
+
+De acordo com a Dra.Valéria Goulart, médica nutróloga da Associação Brasileira de Nutrologia (ABRAN), estudos americanos apontam que, entre os benefícios da maçã, está a diminuição na incidência de diabetes tipo 2, pelo fato dela conter antioxidantes.
+Segundo a especialista, a maçã tem polifenóis, substâncias que protegem o coração e previnem doenças cardiovasculares. Ela tem uma fibra que se chama pectina, na qual, diminui a absorção de gorduras que são ingeridas no dia a dia e, consequentemente, ajuda no combate ao colesterol ruim.
+“A maçã é capaz de tirar a dor de estômago, auxilia no combate à gastrite pelo fato de funcionar como um gel. Essa fruta aumenta a produção de acetilcolina (neurotransmissor responsável por auxiliar a memória) e, com isso, diminui a chance do indivíduo desencadear o Alzheimer ou derrame cerebral”, conta a médica, após ser perguntada sobre os benefícios da maçã.
+“Os polifenóis agem também como anti-inflamatórios e reduzem a chance da pessoa ter câncer, principalmente na parte digestiva. Uma outra função é combater os radicais livres, aqueles que retardam o envelhecimento. Ela ainda favorece a produção de colágeno, ajuda na saúde bucal, ácido málico que aumenta a produção da saliva, diminuindo a proliferação de bactérias, que formam a placa bacteriana”, explica a Dra. Goulart.
+
+Além disso, segundo um estudo realizado no Instituto Nacional dos Estados Unidos, comer uma maçã por dia previne diversas doenças. Esse estudo foi feito com mais de 8 mil pessoas. Durante um ano, cerca de 10% comiam uma maçã por dia. Essas pessoas não precisavam tomar muitos medicamentos, não ficavam doentes e uma maçã por dia dá mais energia e disposição, pois apesar de poucas calorias ela tem carboidratos e fibras.
+A nutróloga ressalta ainda que o melhor horário para aproveitar os benefícios da maçã é no café da manhã, devido a pectina presente na casca dela. Essa substância faz com que a digestão fique mais lenta e diminui a absorção do açúcar no organismo, ou seja, dessa forma o intestino funcionará de forma saudável. Algumas pessoas, quando comem a maçã a noite, sentem algum desconforto, principalmente na digestão por conta da casca.
+“Por se tratar de uma fruta rica em fibras e água, causa a sensação de saciedade e diminui o apetite. Ela tem pectina na casca que diminui a absorção de açúcar, e isso é excelente para quem quer emagrecer. Além disso, quem come uma maçã 15 minutos antes das refeições ingere 200 calorias a menos (a maçã tem baixa caloria inclusive). Na casca existe o ácido sólico que mostra inclusive que reduz a chance da pessoa ficar obesa, aumenta a massa muscular, então é super importante para o emagrecimento.

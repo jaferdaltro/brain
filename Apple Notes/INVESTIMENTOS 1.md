@@ -1,0 +1,6 @@
+---
+apple-notes-id: 80698B7B-20CF-42DF-B270-AB69CE418DF5
+---
+OUTUBRO
+
+R$450 | U$ 84.16

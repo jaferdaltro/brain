@@ -1,0 +1,6 @@
+---
+apple-notes-id: A5DB2E30-951F-4F4F-A097-F1CB23E0ACA1
+---
+![[8965C248-BD85-4EBA-8FD5-6193CA362654.jpg]]
+
+Prescrição de Óculos

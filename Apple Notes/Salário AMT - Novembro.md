@@ -1,0 +1,8 @@
+---
+apple-notes-id: 873B2E7D-2114-4141-8AEB-500CF1744763
+---
+![[BFBC96F5-8560-44D7-A989-1146FA7E77A8.jpeg]]
+
+
+
+![[Imagem.png]]

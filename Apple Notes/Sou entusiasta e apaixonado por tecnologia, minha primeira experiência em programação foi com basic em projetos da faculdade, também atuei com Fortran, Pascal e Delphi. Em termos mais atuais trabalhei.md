@@ -1,0 +1,4 @@
+---
+apple-notes-id: BA5C8235-0F7E-4EB4-8EF7-853E0B576DA8
+---
+Sou entusiasta e apaixonado por tecnologia, minha primeira experiência em programação foi com basic em projetos da faculdade, também atuei com Fortran, Pascal e Delphi. Em termos mais atuais trabalhei com Java em projetos web e também Android, além da minha experiência com Android fiz projetos com o framework Flutter(mobile cross platform), entretanto meus trabalhos mais recentes tem sido com Ruby, mais especificamente com Ruby on Rails, utilizando técnicas de TDD com a gem Rspec. Entre minhas skills posso citar git, Postgres e algum conhecimento em Docker. Sou um profissional ávido em agregar valor e aprender, pois tecnologia é paixão.

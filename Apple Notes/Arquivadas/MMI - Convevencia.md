@@ -1,0 +1,4 @@
+---
+apple-notes-id: C87D9C2D-4029-44A8-80EC-6A0383C8EC35
+---
+Total R$602,00

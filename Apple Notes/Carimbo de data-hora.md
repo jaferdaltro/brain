@@ -1,0 +1,14 @@
+---
+apple-notes-id: 82D76045-6128-4458-A223-1D4176F1A023
+---
+- Endereço de e-mail
+- Nome Completo
+- Idade
+- Telefone de contato com DDD
+- Estado Civil
+- Membro da CN?
+- Qual campus você congrega?
+- Qual Bairro você busca um PG?
+- Por favor, informe o seu CEP:
+- Informe uma opção de dia da semana para participar de um PG:
+- Comentários adicionais

@@ -1,0 +1,8 @@
+---
+apple-notes-id: ED368FD5-75D8-4DB7-93B1-D5118C5F9CB1
+---
+Dados do veículo 
+Placa NUN7954-Ce
+Chassi 9C2KC1620AR045953
+Honda CG150 TITAN MIX ES
+COR PRETA

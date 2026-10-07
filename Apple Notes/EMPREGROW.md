@@ -1,0 +1,11 @@
+---
+apple-notes-id: B5F625D5-96D4-476A-ABE5-008B86426CB0
+---
+- RubyOnRails
+- Python 
+- OpenIA
+- Hotjar -> estatísticas do usuário
+- Usuário 
+- Empresa não vê tudo sobre a pessoa que cadastra 
+- Stripe
+- Fiama Kecia Silveira Teófilo

@@ -1,0 +1,4 @@
+---
+apple-notes-id: 144D81CB-53FA-4620-83B2-879F6B8D8D10
+---
+Dízimo 1.180,43

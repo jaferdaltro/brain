@@ -1,0 +1,6 @@
+---
+apple-notes-id: DEBD07AE-6B97-430D-A1C6-E0D1AF437396
+---
+# #alura #ruby  
+
+![[8920CB44-3D3E-4FD7-AED1-DD0438F51BBB.jpeg]]

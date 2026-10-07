@@ -1,0 +1,33 @@
+---
+apple-notes-id: DFB4F8EE-FC2E-4D32-BE55-629A0699BFF2
+---
+Faltando contracheques em alguns anos 
+- Ano de 2011 - todos
+- Ano de 2012 - todos
+- Ano de 2013 - todos
+- Ano de 2014 - todos
+- Ano de 2015 - todos
+- Ano de 2016 - todos
+- Ano de 2017 
+	- Junho
+	- Novembro
+- Ano de 2020
+	- Fevereiro
+	- Julho
+	- Agosto
+- Ano de 2021
+	- Dezembro
+- Ano de 2022
+	- Abril
+	- Maio
+	- Junho
+	- Julho
+	- Agosto
+	- Setembro
+	- Outubro
+	- Novembro
+- Ano de 2023
+	- Abril
+	- Maio
+	- Junho
+	- Agosto

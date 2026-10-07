@@ -1,0 +1,4 @@
+---
+apple-notes-id: C2B3F6AE-1A75-4EB7-91B7-0F8416C5D53B
+---
+Em 1970 ele comprou ação do Banco do Brasil centavos ele não comprou a R$35 entendeu então tipo assim agora ela vende curso mas não disse tipo assim cara porque 1 milhão de reais naquela época eu comprei essas ações por isso que eu tenho todas essas ações eu não comprei a ação R$35 e a gente tá tendo oportunidade de comprar centavos as ações dessas empresasentão pra comprar médio longo prazo vai dar um tiro bacana daqui a cinco anos só Deus sabe que vai acontecer entendeu então tipo assim outras empresas que está em centavo computação quântica empresas o que é que pode crescer e não comprar as coisa pra trás

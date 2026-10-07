@@ -1,0 +1,4 @@
+---
+apple-notes-id: 8C972657-BA4C-4AC4-AD83-1B7687A5DB3B
+---
+1.169,00

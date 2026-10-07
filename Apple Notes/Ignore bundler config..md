@@ -1,0 +1,28 @@
+---
+apple-notes-id: 517AB101-4A58-41D9-967A-217789D546DB
+---
+/.bundle
+
+*# Ignore the default SQLite database.*
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/db/*.sqlite3-*
+
+*# Ignore all logfiles and tempfiles.*
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+*# Ignore pidfiles, but keep the directory.*
+/tmp/pids/*
+!/tmp/pids/
+!/tmp/pids/.keep
+
+*# Ignore uploaded files in development.*
+/storage/*
+!/storage/.keep
+.byebug_history
+
+*# Ignore master key for decrypting credentials and more.*
+/config/master.key

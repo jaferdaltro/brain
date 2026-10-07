@@ -1,0 +1,13 @@
+---
+apple-notes-id: D402ABFF-80B3-423C-850D-DD0088BFF136
+---
+- [ ] Enel **R****$** **41****8****,****51**
+- [x] Caixinha Nicole - **R$** **2****0****0,00**
+- [x] Caixinha Ipad - **R$ 500,00**
+- [x] Cartão Nubank - **1****.****44****1****,****22**
+- [x] Condomínio 
+- [x] Mlar
+- [x] Brisanet
+- [x] C6
+- [x] Licenciamento
+- [x] Caixinha Apartamento **R****$** **40****0,****00**

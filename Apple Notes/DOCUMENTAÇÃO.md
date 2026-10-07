@@ -1,0 +1,22 @@
+---
+apple-notes-id: 542D750F-B110-45CE-A20D-453FCF818C3E
+---
+~~g) Comprovação de quitação com as obrigações do Serviço Militar, para os candidatos do sexo masculino (Carteira Reservista);~~
+- [ ] s) Documento com informações bancárias contendo o número da conta corrente e agência do Banco Santander (Caso o candidato não possua conta no Banco Santander, deverá informar por e-mail, por ocasião do envio da documentação a ser analisada e validada pela Célula de Suprimento de Pessoal – CESPE integrante da estrutura organizacional desta Secretaria, que oportunamente encaminhará por e- mail eletrônico a Declaração para a abertura da conta bancária do candidato);
+- [ ] a) Ficha Cadastral, preenchida com letra legível e sem rasuras, o qual deverá ser entregue assinado conforme documento oficial (**AnexoII**);
+- [ ] p) Declaração de acumulação de cargo, nos termos da Lei Complementar nº 158, de 19/12/2013, o qual deverá ser entregue assinado conforme documento oficia (**Anexo IV**);
+- [ ] k) **Ter aptidão física e mental para o exercício das atribuições da área, comprovada por laudo médico expedido por profissional competente, devendo constar no documento o número de registro no respectivo conselho de classe, o endereço profissional e o número de telefone para contato (Atestado Médico Admissional);**
+- [ ] j) Declaração de endereço, preenchida com letra legível e sem rasuras, o qual deverá ser entregue assinado conforme documento oficial(**Anexo III**);
+- [ ] i) Comprovante de residência atualizado, com vigência máxima de 03 (três) meses;
+- [ ] m) Folha de antecedentes da Polícia Federal onde tenha residido, nos últimos dois anos, expedida no máximo há seis meses (https://servicos.dpf.gov.br/antecedentes-criminais/certidao);
+- [ ] b) Documento Oficial de Identidade;
+- [ ] c) CPF;
+- [ ] e) Título de Eleitor ;
+- [ ] l) Diploma Frente e verso e histórico - Comprovar os requisitos exigidos no Anexo I do Edital Regulador Certame .
+- [ ] n) Folha de antecedentes da Polícia dos Estados onde tenha residido, nos últimos dois anos, expedida no máximo há seis meses (http://sistemas.sspds.ce.gov.br/AtestadoAntecedentes/);
+- [ ] q) Certidão dos setores de distribuição dos foros criminais dos lugares em que tenha residido, nos últimos dois anos, da Justiça Federal (http://www.jfce.jus.br/jfce/certidaointer/emissaocertidao.aspx);
+- [ ] f) Comprovação de quitação com as obrigações perante a Justiça Eleitoral (Comprovante de votação ou Certidão de Quitação Eleitoral -https://www.tse.jus.br/eleitor/certidoes/certidao-de-quitacao-eleitoral);
+- [ ] o) Não possuir vínculo com a administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, inclusive o de Fortaleza, bem como com suas subsidiárias e/ou controladas, salvo nos casos de acumulação licita de cargos/empregos (Certidões disponíveis nos sitios https://meu.inss.gov.br/#/login, www.seplag.ce.gov.br e http://vinculo.sepog.fortaleza.ce.gov.br/);
+- [ ] d) Comprovante de Situação Cadastral do CPF/Receita federal (https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp);
+- [ ] h) Inscrição do PIS ou PASEP (caso não tenha inscrição no INSS, a mesma deverá ser providenciada como profissional autônomo);
+- [ ] r) Certidão dos setores de distribuição dos foros criminais dos lugares em que tenha residido, nos últimos dois anos, da Justiça Estadual (https://sirece.tjce.jus.br/sirece-web/nova/solicitacao.jsf);

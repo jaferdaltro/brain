@@ -1,0 +1,4 @@
+---
+apple-notes-id: 0DDB5432-B543-4F00-8F0F-7526CDDD0A9C
+---
+**Procura-se dev brasileiro para trabalhar na gringa: que tal ganhar em dólar ou euro ainda este ano? O mercado de tech está de olho no Brasil, que ocupa o 5º lugar como país com mais trabalhadores em empresas de fora. Estados Unidos, Suíça e Reino Unido são os que mais buscam talentos por aqui. E dá pra conseguir esse job ainda em 2025: na TripleTen, você conclui o bootcamp em meses, recebe certificado internacional e conta com programa de aceleração de carreira com treinamento pra entrevistas em inglês. Faça uma consultoria de carreira gratuita com a TripleTen, use o cupom DESCHAMPS para ganhar 10% de desconto na matrícula e se torne dev no exterior ainda este ano:** <a href="https://click.convertkit-mail.com/5qu0nongw6t7hnzrz8ot6h9m8n444tn/8ghqhohop2ee5zbk/aHR0cHM6Ly9nby50cmlwbGV0ZW4uY29tL2Rlc2NoYW1wc19uZXdz" rel="noopener" class="external-link" target="_blank"><b><u>Link Patrocinado</u></b></a>

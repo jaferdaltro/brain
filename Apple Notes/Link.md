@@ -1,0 +1,19 @@
+---
+apple-notes-id: CC810F25-8E14-4D6E-97EE-5622F29A0625
+---
+Sol
+Zora
+Eth
+
+Registro
+R$ 5.600,00
+
+IPTU
+
+
+
+0.25654 - pro 2371
+0.26783
+
+CRO 2701
+0.26013

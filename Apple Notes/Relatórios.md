@@ -1,0 +1,15 @@
+---
+apple-notes-id: DFD01F4F-0F44-4DC8-8EF0-54B0EA4B69F0
+---
+- [ ] Semana 6
+- [ ] Semana 7
+- [ ] Semana 8
+- [ ] Semana 9
+- [ ] Semana 10
+- [ ] Semana 11
+- [ ] Semana 12
+- [x] Semana 5
+- [x] Semana 4
+- [x] Semana 3
+- [x] Semana 2
+- [x] Semana 1

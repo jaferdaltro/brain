@@ -1,0 +1,15 @@
+---
+apple-notes-id: 2E4E89AA-9FD9-43B4-BBE2-18D7BD31B6F4
+---
+- 500,00 condomínio 
+- 500,00 enel
+- 500,00 gasolina
+- 600,00 ajuda
+- 100,00 internet 
+- 600,00 lazer 
+- 1.500,00 dízimo 
+- 200,00 AMT
+- 1.250,00 serviços AMT 
+- 250,00 farmácia 
+- 250,00 academia
+- Total 6.000,00

@@ -1,0 +1,4 @@
+---
+apple-notes-id: 33FD0F51-8818-4387-BCFE-4A39B81ADB97
+---
+![[CLINICA ALDEOTA SUL.pdf]]

@@ -1,0 +1,4 @@
+---
+apple-notes-id: A8210D27-BBB5-4574-83AE-A2383C3AD74B
+---
+![[CERTIFICAÇÕES.jpeg]]

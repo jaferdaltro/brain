@@ -1,0 +1,12 @@
+---
+apple-notes-id: 5D4A4B1D-FF3E-4640-A227-8199944EDD76
+---
+#crypto 
+
+1. PLUME 
+2. PYTH
+3. ICP
+4. ZEREBRO
+5. NXPC
+6. ETHFI
+7. MNT

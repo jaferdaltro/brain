@@ -1,0 +1,4 @@
+---
+apple-notes-id: 8841A4C4-858B-4A80-A083-66D6D50AA284
+---
+echo $PATH

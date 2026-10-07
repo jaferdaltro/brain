@@ -1,0 +1,15 @@
+---
+apple-notes-id: 93219F70-42C8-4176-9016-0A66A48ABAF1
+---
+#cagece 
+
+Inscricao 005922828
+
+CENTRAL DE ATENDIMENTO 0800 275 0195
+
+
+PROTOCOLO 213146680
+
+
+
+![[Pasted Graphic 36.png]]
