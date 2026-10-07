@@ -11,10 +11,10 @@
             "id": "c81ba3812857482c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "smart-release-notes-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jafer.daltro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,14 +185,23 @@
               "icon": "scroll",
               "title": "YouTube Transcript"
             }
+          },
+          {
+            "id": "b4a2bdf3a22289c0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 438.09375,
-    "collapsed": true
+    "width": 438.09375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +213,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "c81ba3812857482c",
+  "active": "cf91ea77eae6708b",
   "lastOpenFiles": [
+    "Apple Notes/Code/Ruby/Meus Emails.md",
+    "Apple Notes/Arquivadas/Cardapio/Cardapioweb - Util.md",
+    "Apple Notes/Arquivadas/California Commuty Colleges - CCCID CPP6494.md",
+    "Apple Notes/AWS.md",
     "Apple Notes/TRADE.md",
     "images/78050459783__2F3933D9-92F5-44C7-A716-C42C129135A0.mov",
     "Atlantico/Impacta/Inteligência Artificial.md",
@@ -239,13 +255,9 @@
     "images/Scan 1.pdf",
     "Apple Notes/Comentários das Lições.md",
     "Apple Notes/Aliança.md",
-    "Apple Notes/packagecom.anthonyng.workoutapp.md",
     "images/Nova Nota 8.png",
-    "Apple Notes/Nova Nota 3.md",
     "images/Nova Nota 7.png",
-    "Apple Notes/Nova Nota 2.md",
     "images/Foto Salva.png",
-    "Apple Notes/English/Foto Salva.md",
     "images/recording 2.m4a",
     "images/CLINICA ALDEOTA SUL.pdf",
     "images/Scan.pdf",
