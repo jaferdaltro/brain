@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Atlantico/Impacta/Inteligência Artificial.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,8 +190,7 @@
               "title": "YouTube Transcript"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,6 +213,10 @@
   },
   "active": "cea30e8dd7b7d1af",
   "lastOpenFiles": [
+    "Atlantico/Impacta/Agenda.md",
+    "Atlantico/Impacta/Organização Digital.md",
+    "Atlantico/Impacta/Mundo da Tecnologia.md",
+    "Atlantico/Impacta/Inteligência Artificial.md",
     "Atlantico/Impacta/Links.md",
     "Meetings/daily 30-09-26.md",
     "Meetings/daily 07-10-26.md",
@@ -239,10 +242,6 @@
     "Apple Notes/AMT/Plantões Junho.md",
     "Apple Notes/AMT/Plantões de Novembro.md",
     "Apple Notes/AMT/Plantões de Julho.md",
-    "Apple Notes/AMT/Plantões de Dezembro.md",
-    "Apple Notes/AMT/PLANTÕES AMT - Março24.md",
-    "Apple Notes/AMT/PLANTÕES - Fevereiro 24.md",
-    "Apple Notes/AMT/Plantões Agosto.md",
     "Apple Notes/AMT",
     "Apple Notes/Projetos",
     "images/recording.m4a",
