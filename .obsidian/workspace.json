@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a81275fd413b1ac4",
+        "id": "d688a564bb9bccb6",
         "type": "tabs",
         "children": [
           {
-            "id": "13d77db93940b688",
+            "id": "d5a7ccb623ba5a4c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "New tab"
             }
           }
         ]
@@ -42,7 +42,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -191,23 +191,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.3515625,
-    "collapsed": true
+    "width": 597.3515625
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13d77db93940b688",
+  "active": "cf91ea77eae6708b",
   "lastOpenFiles": [
     "daily/2026-10-06.md",
     "daily/2026-10-05.md",
