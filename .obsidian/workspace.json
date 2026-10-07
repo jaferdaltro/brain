@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "606968ab8bf15934",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d014bea444f8572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a111318fe2d256e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1223218e5956e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3fb0154f76f547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0248eb03af76925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57f32d2e3cfee79a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jafer.daltro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e60c5fbb0c7c364f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.2421875
+  },
+  "right": {
+    "id": "17fe950676c8f9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeec395560bccca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6243a0bb8d01cbdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2026-09-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a8dabc737ac8e23b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2025-11-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-19"
+            }
+          },
+          {
+            "id": "f1cc1b3f72d66af5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "892bc707100c2599",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f66dd95a68c19436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlantico/Impacta/Organização Digital.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4086a9be36befaa5",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "b4a2bdf3a22289c0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 576.046875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "7a111318fe2d256e",
+  "lastOpenFiles": [
+    "Atlantico/PDI.md",
+    "daily/2026-10-07.md",
+    "Apple Notes/Code/Ruby/Meus Emails.md",
+    "Apple Notes/Arquivadas/Cardapio/Cardapioweb - Util.md",
+    "Apple Notes/Arquivadas/California Commuty Colleges - CCCID CPP6494.md",
+    "Apple Notes/AWS.md",
+    "Apple Notes/TRADE.md",
+    "images/78050459783__2F3933D9-92F5-44C7-A716-C42C129135A0.mov",
+    "Atlantico/Impacta/Inteligência Artificial.md",
+    "images/Saldo Latam.jpeg",
+    "Apple Notes/Firestore - transitando.md",
+    "Apple Notes/Começar o dia no eixo.md",
+    "Apple Notes/Top Chinesas.md",
+    "Apple Notes/Melhores séries do século XXI.md",
+    "Apple Notes/ROTA 7 PQ GUADALAJARA - PQ ALBANO - ZONA 123.md",
+    "Apple Notes/https--impactaceara.com.br-.md",
+    "Apple Notes/Epicondilite.md",
+    "Apple Notes/Contratos de Trabalho.md",
+    "Apple Notes/Importante.md",
+    "images/Oração.png",
+    "Apple Notes/Oração 1.md",
+    "images/Firestore - transitando.jpeg",
+    "Apple Notes/model_provider = openrouter.md",
+    "Apple Notes/Roteiro Forja Fitness.md",
+    "images/Drawing 2.png",
+    "images/Nova Nota 11.png",
+    "Apple Notes/Antebraço direits.md",
+    "images/Nova Nota 10.png",
+    "Apple Notes/Nova Nota 5.md",
+    "Apple Notes/Comentários das Lições 1.md",
+    "images/Nova Nota 9.png",
+    "Apple Notes/Nova Nota 4.md",
+    "images/Scan 1.pdf",
+    "Apple Notes/Comentários das Lições.md",
+    "images/Nova Nota 8.png",
+    "images/Nova Nota 7.png",
+    "images/Foto Salva.png",
+    "images/recording 2.m4a",
+    "images/CLINICA ALDEOTA SUL.pdf",
+    "images/Scan.pdf",
+    "images/recording 1.m4a",
+    "images/recording.m4a",
+    "images/IMG_5862.heic",
+    "images/IMG_5714.heic",
+    "images/Gravação de Ligação.m4a"
+  ]
+}
