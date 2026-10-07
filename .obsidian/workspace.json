@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c29ce254bfe25e3c",
+        "id": "26b1b9eebc425b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "702146a600b22d85",
+            "id": "2281f646f3a09581",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-10-07"
             }
-          },
-          {
-            "id": "50654eda28e419e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -66,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AMT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2026-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2025-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-11-19"
             }
           },
           {
@@ -200,15 +191,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375
+    "width": 231.3515625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Import notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,26 +207,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-importer:Import notes": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66dd95a68c19436",
+  "active": "2281f646f3a09581",
   "lastOpenFiles": [
-    "Atlantico/HPX/INDICE.md",
     "Indice.md",
     "daily/2026-10-07.md",
-    "Indice.canvas",
-    "Atlantico/chatbot/chatbot_rag.md",
-    "Atlantico/chatbot/llm_config.yaml.md",
-    "Atlantico/chatbot/tree_developer.md",
-    "Atlantico/chatbot/tree.md",
-    "Business Machine/02-produto/Agenda Escolar/Agenda Escolar.md",
-    "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
-    "Atlantico/PDI.md",
-    "Atlantico/Férias.md",
     "daily/2026-10-06.md",
-    "conflict-files-obsidian-git.md",
     "daily/2026-10-05.md",
     "Meetings/daily 30-09-26.md",
     "images/Pasted image 20260928144446.png",
@@ -249,12 +230,14 @@
     "images/Pasted image 20260928142832.png",
     "images/Pasted image 20260928142558.png",
     "images/2026-05-04 Client Portal Kickoff.md",
+    "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
     "daily/2026-09-30.md",
     "daily/2026-09-29.md",
     "daily/2026-09-28.md",
     "Atlantico/CPQD/kickoff.md",
     "Atlantico/CPQD/Contrato.md",
     "Atlantico/chatbot/Teste Chatbot Pre-Alfa.md",
+    "Atlantico/chatbot/llm_config.yaml.md",
     "Meetings",
     "Excalidraw",
     "Atlantico/Atlantico/HPX/images/Personal/IMG_4286.mov",
@@ -266,8 +249,16 @@
     "Atlantico/Atlantico/HPX/Excalidraw/Meeting Gargalos Identificados.md",
     "Atlantico/Atlantico/HPX/Excalidraw/HPXAPPS-41529.md",
     "Atlantico/Atlantico/HPX/Excalidraw/Fluxos e Times.md",
+    "Atlantico/Atlantico/HPX/Excalidraw/Drawing 2025-09-11 12.29.41.excalidraw.md",
+    "Atlantico/Atlantico/HPX/Excalidraw/Drawing 2025-09-05 10.36.55.excalidraw.md",
     "Atlantico/Atlantico/HPX/Excalidraw",
+    "Atlantico/Atlantico/HPX/Some days.md",
+    "Atlantico/Atlantico/HPX/Refinamento.md",
+    "Atlantico/Atlantico/HPX/JIRA PROCESS.md",
+    "Atlantico/Atlantico/HPX/INDICE.md",
     "Atlantico/Atlantico/HPX",
+    "Atlantico/Atlantico/CPQD/kickoff.md",
+    "Atlantico/Atlantico/CPQD/Plano de Estudo.md",
     "Atlantico/Atlantico/CPQD"
   ]
 }
