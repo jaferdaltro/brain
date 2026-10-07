@@ -25,10 +25,14 @@
             "id": "50654eda28e419e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlantico/Impacta/Inteligência Artificial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inteligência Artificial"
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlantico/Impacta/Inteligência Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlantico/Impacta/Inteligência Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlantico/Impacta/Organização Digital.md",
+                "file": "Atlantico/Impacta/Inteligência Artificial.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375
+    "width": 378.95458984375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66dd95a68c19436",
+  "active": "50654eda28e419e4",
   "lastOpenFiles": [
+    "Atlantico/Impacta/Links.md",
+    "Atlantico/Impacta/Inteligência Artificial.md",
+    "Atlantico/Impacta/Agenda.md",
     "Atlantico/HPX/INDICE.md",
     "Indice.md",
     "daily/2026-10-07.md",
@@ -263,9 +273,6 @@
     "Atlantico/Atlantico/HPX/images/20251014-1838-55.8979532.mp4",
     "Atlantico/Atlantico/HPX/images",
     "Atlantico/Atlantico/HPX/Excalidraw/PersonalMaps.md",
-    "Atlantico/Atlantico/HPX/Excalidraw/Meeting Gargalos Identificados.md",
-    "Atlantico/Atlantico/HPX/Excalidraw/HPXAPPS-41529.md",
-    "Atlantico/Atlantico/HPX/Excalidraw/Fluxos e Times.md",
     "Atlantico/Atlantico/HPX/Excalidraw",
     "Atlantico/Atlantico/HPX",
     "Atlantico/Atlantico/CPQD"
