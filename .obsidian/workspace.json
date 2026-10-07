@@ -11,17 +11,14 @@
             "id": "7f22dc96e51e30c8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -153,
-                  "y": -200,
-                  "zoom": 0
-                }
+                "file": "daily/2026-10-07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-10-07"
             }
           }
         ]
@@ -215,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "7f22dc96e51e30c8",
   "lastOpenFiles": [
-    "Atlantico/PDI.md",
     "Untitled.canvas",
+    "Atlantico/PDI.md",
     "Atlantico/Férias.md",
     "daily/2026-10-07.md",
     "daily/2026-10-06.md",
@@ -261,7 +258,6 @@
     "Atlantico/Atlantico/HPX/Some days.md",
     "Atlantico/Atlantico/HPX/Refinamento.md",
     "Atlantico/Atlantico/HPX/JIRA PROCESS.md",
-    "Atlantico/Atlantico/HPX/INDICE.md",
     "Atlantico/Atlantico/HPX",
     "Atlantico/Atlantico/CPQD"
   ]
