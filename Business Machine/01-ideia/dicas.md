@@ -1,2 +1,0 @@
-- Não fazer o produto sem validar
-- Vendeu sem ter o produto
