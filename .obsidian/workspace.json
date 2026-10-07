@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.3515625
+    "width": 597.3515625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,22 +211,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "13d77db93940b688",
   "lastOpenFiles": [
-    "Atlantico/Atlantico/HPX/images/Personal/IMG_5002.jpeg",
+    "daily/2026-10-05.md",
+    "daily/2026-10-06.md",
+    "Meetings/daily 30-09-26.md",
+    "images/Pasted image 20260928144446.png",
+    "images/Pasted image 20260928144237.png",
+    "images/Pasted image 20260928144216.png",
+    "images/Pasted image 20260928144158.png",
+    "images/Pasted image 20260928143951.png",
+    "images/Pasted image 20260928143904.png",
+    "images/Pasted image 20260928143638.png",
+    "images/Pasted image 20260928143040.png",
+    "images/Pasted image 20260928142832.png",
+    "images/Pasted image 20260928142558.png",
+    "images/2026-05-04 Client Portal Kickoff.md",
+    "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
+    "daily/2026-09-30.md",
+    "daily/2026-09-29.md",
+    "daily/2026-09-28.md",
+    "Atlantico/CPQD/kickoff.md",
+    "Atlantico/CPQD/Contrato.md",
+    "Atlantico/chatbot/Teste Chatbot Pre-Alfa.md",
+    "Atlantico/chatbot/llm_config.yaml.md",
+    "Meetings",
+    "Excalidraw",
     "Atlantico/Atlantico/HPX/images/Personal/IMG_4286.mov",
-    "Atlantico/Atlantico/HPX/images/Personal/IMG_4108.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/IMG_3904.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/IMG_0388.png",
-    "Atlantico/Atlantico/HPX/images/Personal/f1b65599-938b-4d7f-b143-eb9b9fcd0146.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/E837BA02-09AA-49F2-AFC3-2B80C01EB41A.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/B058353E-4436-4825-957E-81C5E1416C4A.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/75A622E9-9D16-4113-818A-2B0625530C58.jpeg",
-    "Atlantico/Atlantico/HPX/images/Personal/54d164a8-6192-410a-81c1-ef56d40d4a3e.jpeg",
     "Atlantico/Atlantico/HPX/images/Personal/27d97ee2-6922-42cd-896d-2a2d825ced9b.mp4",
     "Atlantico/Atlantico/HPX/images/Personal",
-    "Atlantico/Atlantico/HPX/images/Pasted image 20260513095540.png",
-    "Atlantico/Atlantico/HPX/images/Pasted image 20260505165953.png",
     "Atlantico/Atlantico/HPX/images/20251014-1838-55.8979532.mp4",
     "Atlantico/Atlantico/HPX/images",
     "Atlantico/Atlantico/HPX/Excalidraw/PersonalMaps.md",
@@ -244,19 +258,6 @@
     "Atlantico/Atlantico/CPQD/Plano de Estudo.md",
     "Atlantico/Atlantico/CPQD/Contrato.md",
     "Atlantico/Atlantico/CPQD",
-    "Atlantico/Atlantico/chatbot/Imagens",
-    "Atlantico/Atlantico/chatbot/tree_developer.md",
-    "Atlantico/Atlantico/chatbot/tree.md",
-    "Atlantico/Atlantico/chatbot/Teste Chatbot Pre-Alfa.md",
-    "Atlantico/Atlantico/chatbot/Sprints Iniciais.md",
-    "Atlantico/Atlantico/chatbot/Setup.md",
-    "Atlantico/Atlantico/chatbot/PoC.md",
-    "Atlantico/Atlantico/chatbot/Participantes.md",
-    "Atlantico/Atlantico/chatbot/llm_config.yaml.md",
-    "Atlantico/Atlantico/chatbot/chatbot_rag.md",
-    "Atlantico/Atlantico/chatbot/Modelagem e Impressão 3D.md",
-    "Atlantico/Atlantico/chatbot/Jira Ticket Generator.md",
-    "Atlantico/Atlantico/chatbot/Docker.md",
-    "Atlantico/Atlantico/chatbot"
+    "Atlantico/Atlantico/chatbot/tree_developer.md"
   ]
 }

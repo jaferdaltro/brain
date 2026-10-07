@@ -2,7 +2,14 @@
 
 Os tópicos não são isolados — a ordem importa porque cada um é pré-requisito do seguinte:
 
-1. Python e Git (base) → 2. React → 3. IA Generativa (fundamentos) → 4. Agentes → 5. Avaliação de LLM/RAG → 6. Segurança e observabilidade → 7. Pesquisa/desenvolvimento de soluções (síntese prática) → 8. Relatórios executivos (transversal, praticar desde o início)
+1. Python e Git (base) 
+2. React 
+3. IA Generativa (fundamentos) 
+4. Agentes
+5. Avaliação de LLM/RAG 
+6. Segurança e observabilidade 
+7. Pesquisa/desenvolvimento de soluções (síntese prática) 
+8. Relatórios executivos (transversal, praticar desde o início)
 
 ---
 
@@ -24,9 +31,6 @@ Os tópicos não são isolados — a ordem importa porque cada um é pré-requis
 - **Curso**: DeepLearning.AI — "Generative AI for Everyone" (Andrew Ng) para visão geral, depois "ChatGPT Prompt Engineering for Developers" e "Building Systems with the ChatGPT API"
 - **Hands-on com APIs**: documentação da Anthropic (docs.claude.com) e da OpenAI (platform.openai.com/docs) — comece fazendo chamadas simples e evolua para streaming, tool use e function calling
 - Fundamentos teóricos (opcional, mas ajuda a entender "por que"): Hugging Face NLP Course (gratuito, hf.co/learn)
-- - **Asimov Academy** (PT-BR) — tem trilha específica de "Agentes de IA" do básico ao avançado, além de IA generativa com Hugging Face
-- **IBM Technology** (inglês) — ótimos vídeos curtos explicando conceitos (RAG, embeddings, fine-tuning) de forma visual
-- **Andrej Karpathy** (inglês) — se quiser entender o "motor por baixo do capô" dos LLMs, é o canal mais respeitado tecnicamente, embora mais denso
 
 ## 4. Agentes transacionais e informacionais
 
@@ -36,8 +40,6 @@ Aqui a distinção prática é: **agentes informacionais** respondem perguntas
 - Vale notar que o AutoGen entrou em modo de manutenção pela Microsoft, que agora recomenda o Microsoft Agent Framework para quem começa do zero
 - **Documentação**: langchain-ai.github.io/langgraph, docs.crewai.com
 - **Anthropic**: guia oficial "Building Effective Agents" (anthropic.com/research) — muito bom para entender quando um agente é necessário e quando um pipeline simples resolve
-- **Sam Witteveen** e **James Briggs** (inglês) — ambos têm playlists extensas sobre LangGraph, CrewAI e padrões de agentes, muito hands-on
-- **Asimov Academy** (PT-BR) — trilha de agentes citada acima
 
 ## 5. Avaliação de aplicações baseadas em LLM e RAG
 
@@ -70,46 +72,58 @@ Isso é mais uma prática do que um curso único — é a habilidade de ir do pr
 
 ---
 
-Consegui achar boas opções para cada tópico — misturando canais em português e inglês (a área de IA ainda tem mais conteúdo de qualidade em inglês, mas você pega tranquilo com legendas):
+## Roadmap: do zero até Promptfoo e Ragas
 
-## Python
+A ideia é construir uma base conceitual antes de tocar nas ferramentas — senão você decora comandos sem entender o que está medindo. Dividi em 5 etapas.
 
-- **Asimov Academy** (PT-BR) — hoje é a referência nacional para Python aplicado a IA: tem playlists de "Python para IA", LangChain, agentes e projetos práticos como leitura de PDF com RAG
-- **Dunossauro** (Eduardo Mendes, PT-BR) — conteúdo mais avançado (corrotinas, FastAPI, Django), lives semanais
-- **Corey Schafer** (inglês) — referência clássica para fundamentos sólidos de Python
+### Etapa 1 — Pré-requisitos (se já não tiver)
 
-## React
+- Python básico (você já tem isso no radar do plano anterior) e familiaridade com chamadas de API REST
+- Conceito de prompt engineering: como estruturar prompts, few-shot, system prompt
+- **Fontes gratuitas**: curso "ChatGPT Prompt Engineering for Developers" (DeepLearning.AI, gratuito) ou qualquer playlist de prompt engineering do canal **IBM Technology** (inglês, vídeos curtos e bem explicados)
 
-- **Rocketseat** (PT-BR) — playlist de React bem completa e didática, cobre também Node e TypeScript
-- **Lucas Montano** (PT-BR) — foco forte em React e novidades do ecossistema
-- **Codevolution** ou **Web Dev Simplified** (inglês) — explicações curtas e diretas de hooks, TypeScript com React
+### Etapa 2 — O que é um "LLM eval" (conceito antes da ferramenta)
 
-## IA Generativa / LLMs
+Antes de usar qualquer ferramenta, entenda por que avaliação de LLM é diferente de teste de software tradicional: a saída não é determinística, então você não compara string exata, usa critérios (contains, similaridade semântica, "llm-as-judge" — outro LLM avaliando a resposta).
 
-- **Asimov Academy** (PT-BR) — tem trilha específica de "Agentes de IA" do básico ao avançado, além de IA generativa com Hugging Face
-- **IBM Technology** (inglês) — ótimos vídeos curtos explicando conceitos (RAG, embeddings, fine-tuning) de forma visual
-- **Andrej Karpathy** (inglês) — se quiser entender o "motor por baixo do capô" dos LLMs, é o canal mais respeitado tecnicamente, embora mais denso
+- **YouTube**: busque "LLM evals explained" ou "LLM as a judge explained" — o canal **IBM Technology** e o **Prompt Engineering** (canal homônimo, bem focado nesse nicho de avaliação/RAG) têm vídeos diretos sobre isso
+- Esse é o único ponto do roadmap em que vale mais entender o conceito do que ver um tutorial de ferramenta específica
 
-## Agentes transacionais e informacionais
+### Etapa 3 — Promptfoo (avaliação de prompts/LLM em geral)
 
-- **Sam Witteveen** e **James Briggs** (inglês) — ambos têm playlists extensas sobre LangGraph, CrewAI e padrões de agentes, muito hands-on
-- **Asimov Academy** (PT-BR) — trilha de agentes citada acima
+Contexto importante: a OpenAI adquiriu o Promptfoo em março de 2026, mas o projeto continua open-source (MIT) e com suporte a dezenas de provedores de LLM — então o que você aprender continua válido independente do modelo usado.
 
-## Avaliação de LLM/RAG e observabilidade
+Ordem prática de estudo:
 
-Esse é o ponto mais fraco em português — a maior parte do conteúdo bom ainda está em inglês:
+1. Instalar (`npm install -g promptfoo`) e rodar `promptfoo init` para ver a estrutura de um eval
+2. Entender os 3 blocos de um config: prompts, providers (modelos) e test cases/assertions
+3. Rodar seu primeiro eval com asserções simples (`contains`, `icontains`) antes de partir para `llm-rubric` (onde um LLM avalia a resposta por critério)
+4. Explorar `promptfoo view` para visualizar resultados em matriz comparando modelos
 
-- **Canal oficial do LangChain no YouTube** — tem vídeos específicos sobre avaliação com LangSmith e RAG
-- Buscar diretamente por "Ragas tutorial" ou "Arize Phoenix tutorial" no YouTube costuma trazer vídeos curtos e atualizados direto dos mantenedores das ferramentas
+- **Fonte gratuita principal**: a própria documentação oficial em **promptfoo.dev/docs** tem um "Getting Started" muito direto, com exemplos prontos para copiar
+- **YouTube**: busque "Promptfoo tutorial 2026" — o canal **Prompt Engineering** costuma cobrir ferramentas assim que ficam relevantes; como é uma ferramenta nova, prefira vídeos dos últimos meses
 
-## Segurança de aplicações de IA
+### Etapa 4 — Fundamentos de RAG (antes de avaliar RAG)
 
-- Pouco conteúdo dedicado em vídeo — o próprio site da OWASP e leituras continuam sendo a fonte mais confiável aqui. Vale buscar "OWASP Top 10 LLM explained" no YouTube para achar resumos em vídeo
+Para o Ragas fazer sentido, você precisa entender o pipeline de RAG: retrieval (busca em base vetorial) → generation (LLM usa o contexto recuperado para responder).
 
-## Git
+- Revise o módulo de RAG que já estava no seu plano anterior (Hugging Face NLP Course ou vídeos do IBM Technology sobre "what is RAG")
 
-- **Curso em vídeo do GitHub Skills** ou qualquer playlist de "Git e GitHub" da Rocketseat/Código Fonte TV (PT-BR) cobrem bem o essencial
+### Etapa 5 — Ragas (avaliação específica de RAG)
 
----
+Em 2026, o Ragas é descrito como o framework padrão para avaliação de RAG, com abordagem "reference-free" — a maior parte das métricas não exige que você escreva uma resposta-gabarito para cada pergunta, o que acelera bastante a criação da primeira baseline.
 
-Uma dica prática: para os tópicos mais recentes (agentes, avaliação de RAG, observabilidade), prefira sempre filtrar por vídeos publicados nos últimos 6 meses — essa área muda muito rápido e tutorial de 2024 já pode estar desatualizado.
+Ordem prática de estudo:
+
+1. `pip install ragas` e entender os 4 objetos centrais: pergunta, contextos recuperados, resposta gerada, e (opcionalmente) uma referência
+2. Métrica mais importante para começar: **faithfulness** (a resposta é fiel ao contexto recuperado, sem "alucinar"?)
+3. Depois: **context precision/recall** (a busca recuperou os documentos certos?) e **answer relevancy** (a resposta responde à pergunta?)
+4. Montar um dataset de avaliação pequeno (`EvaluationDataset`/`SingleTurnSample`) e rodar `evaluate()` com 2-3 métricas antes de ir para o conjunto completo
+
+- **Fonte gratuita principal**: **docs.ragas.io** tem quickstart com código rodável
+- Se quiser entender a motivação teórica, o paper original está livre no arXiv (arXiv:2309.15217) — não é essencial, mas ajuda a entender por que as métricas foram desenhadas daquele jeito
+- **YouTube**: busque "Ragas tutorial RAG evaluation" — de novo, prefira vídeos de 2026 já que a lib evolui rápido; canais como **Prompt Engineering** e **Sam Witteveen** costumam ter esse tipo de conteúdo hands-on
+
+### Depois disso
+
+Com Promptfoo (avaliação geral de prompts/modelos) e Ragas (avaliação específica de RAG) dominados, o próximo passo natural — que já estava no seu plano anterior — é conectar isso a observabilidade (Langfuse/Arize Phoenix) para rodar essas avaliações continuamente, não só manualmente.
