@@ -11,16 +11,30 @@
             "id": "13d77db93940b688",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.base",
-                "viewName": "Tabela"
+                "file": "daily/2026-10-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "2026-10-06"
+            }
+          },
+          {
+            "id": "c70d055075f9086a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.3515625,
-    "collapsed": true
+    "width": 597.3515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13d77db93940b688",
+  "active": "c70d055075f9086a",
   "lastOpenFiles": [
     "Sem título.base",
     "daily/2026-10-06.md",
