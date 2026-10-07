@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c59d9f33e5295e70",
+        "id": "53222c7fcb04f7f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7f22dc96e51e30c8",
+            "id": "d5402e2b2c37989f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "English.canvas",
-                "viewState": {
-                  "x": 125.999993952838,
-                  "y": -200,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "English"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "d5402e2b2c37989f",
   "lastOpenFiles": [
+    "English.canvas",
     "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
     "daily/2026-10-07.md",
-    "English.canvas",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
     "daily/2026-10-06.md",
