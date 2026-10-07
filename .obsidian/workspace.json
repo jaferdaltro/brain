@@ -11,14 +11,17 @@
             "id": "702146a600b22d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "daily/2026-10-07.md",
-                "mode": "source",
-                "source": false
+                "file": "Indice.canvas",
+                "viewState": {
+                  "x": 7.272705078125,
+                  "y": 0.909088134765625,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-10-07"
+              "icon": "lucide-layout-dashboard",
+              "title": "Indice"
             }
           }
         ]
@@ -83,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.77734375,
-    "collapsed": true
+    "width": 238.77734375
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2026-10-07.md",
+                "file": "Indice.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2026-10-07.md",
+                "file": "Indice.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,14 +217,14 @@
   },
   "active": "702146a600b22d85",
   "lastOpenFiles": [
+    "daily/2026-10-07.md",
     "Atlantico/chatbot/chatbot_rag.md",
     "Atlantico/chatbot/llm_config.yaml.md",
     "Atlantico/chatbot/tree_developer.md",
     "Atlantico/chatbot/tree.md",
     "Atlantico/HPX/INDICE.md",
-    "daily/2026-10-07.md",
     "Business Machine/02-produto/Agenda Escolar/Agenda Escolar.md",
-    "English.canvas",
+    "Indice.canvas",
     "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",

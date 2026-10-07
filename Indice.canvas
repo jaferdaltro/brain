@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"eee530bfd1f6dbc7",
+			"type":"text",
+			"text":"Autarquia",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-20,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
