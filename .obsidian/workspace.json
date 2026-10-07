@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f252105ceac6f1b8",
+        "id": "60996fee20509214",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9b547cbf73026d",
+            "id": "a92ac14d929265d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-10-07.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-10-07"
             }
           }
         ]
@@ -191,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a9b547cbf73026d",
+  "active": "a92ac14d929265d1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "daily/2026-10-07.md",
     "daily/2026-10-06.md",
+    "conflict-files-obsidian-git.md",
     "daily/2026-10-05.md",
     "Meetings/daily 30-09-26.md",
     "images/Pasted image 20260928144446.png",
@@ -253,7 +257,6 @@
     "Atlantico/Atlantico/HPX",
     "Atlantico/Atlantico/CPQD/kickoff.md",
     "Atlantico/Atlantico/CPQD/Plano de Estudo.md",
-    "Atlantico/Atlantico/CPQD/Contrato.md",
     "Atlantico/Atlantico/CPQD"
   ]
 }
