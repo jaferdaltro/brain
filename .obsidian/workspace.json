@@ -11,20 +11,28 @@
             "id": "702146a600b22d85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Indice.canvas",
-                "viewState": {
-                  "x": 7.272705078125,
-                  "y": 0.909088134765625,
-                  "zoom": 0
-                }
+                "file": "daily/2026-10-07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Indice"
+              "icon": "lucide-file",
+              "title": "2026-10-07"
+            }
+          },
+          {
+            "id": "50654eda28e419e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -102,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -194,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375,
-    "collapsed": true
+    "width": 378.95458984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,16 +220,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702146a600b22d85",
+  "active": "f66dd95a68c19436",
   "lastOpenFiles": [
+    "Atlantico/HPX/INDICE.md",
+    "Indice.md",
     "daily/2026-10-07.md",
+    "Indice.canvas",
     "Atlantico/chatbot/chatbot_rag.md",
     "Atlantico/chatbot/llm_config.yaml.md",
     "Atlantico/chatbot/tree_developer.md",
     "Atlantico/chatbot/tree.md",
-    "Atlantico/HPX/INDICE.md",
     "Business Machine/02-produto/Agenda Escolar/Agenda Escolar.md",
-    "Indice.canvas",
     "Excalidraw/Drawing 2026-10-05 11.49.13.excalidraw.md",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
@@ -260,7 +266,6 @@
     "Atlantico/Atlantico/HPX/Excalidraw/Meeting Gargalos Identificados.md",
     "Atlantico/Atlantico/HPX/Excalidraw/HPXAPPS-41529.md",
     "Atlantico/Atlantico/HPX/Excalidraw/Fluxos e Times.md",
-    "Atlantico/Atlantico/HPX/Excalidraw/Drawing 2025-09-11 12.29.41.excalidraw.md",
     "Atlantico/Atlantico/HPX/Excalidraw",
     "Atlantico/Atlantico/HPX",
     "Atlantico/Atlantico/CPQD"
