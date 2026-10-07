@@ -11,10 +11,15 @@
             "id": "d5a7ccb623ba5a4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "daily/2026-10-06.md",
+                "bFile": "daily/2026-10-06.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-10-06  (Index)"
             }
           }
         ]
@@ -206,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf91ea77eae6708b",
+  "active": "d5a7ccb623ba5a4c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "daily/2026-10-06.md",
     "daily/2026-10-05.md",
     "Meetings/daily 30-09-26.md",
@@ -252,7 +258,6 @@
     "Atlantico/Atlantico/CPQD/kickoff.md",
     "Atlantico/Atlantico/CPQD/Plano de Estudo.md",
     "Atlantico/Atlantico/CPQD/Contrato.md",
-    "Atlantico/Atlantico/CPQD",
-    "Atlantico/Atlantico/chatbot/tree_developer.md"
+    "Atlantico/Atlantico/CPQD"
   ]
 }
