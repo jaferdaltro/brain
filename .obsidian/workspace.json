@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd843ab482dc173b",
+        "id": "c29ce254bfe25e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "c81ba3812857482c",
+            "id": "702146a600b22d85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-10-07.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-10-07"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.2421875
+    "width": 238.77734375
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlantico/Impacta/Organização Digital.md",
+                "file": "daily/2026-10-07.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.09375
+    "width": 378.95458984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,52 +211,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81ba3812857482c",
+  "active": "cf91ea77eae6708b",
   "lastOpenFiles": [
-    "Apple Notes/TRADE.md",
-    "images/78050459783__2F3933D9-92F5-44C7-A716-C42C129135A0.mov",
-    "Atlantico/Impacta/Inteligência Artificial.md",
-    "images/Saldo Latam.jpeg",
-    "Apple Notes/Firestore - transitando.md",
-    "Apple Notes/Começar o dia no eixo.md",
-    "Apple Notes/Top Chinesas.md",
-    "Apple Notes/Melhores séries do século XXI.md",
-    "Apple Notes/ROTA 7 PQ GUADALAJARA - PQ ALBANO - ZONA 123.md",
-    "daily/2026-10-07.md",
-    "Apple Notes/https--impactaceara.com.br-.md",
-    "Apple Notes/Epicondilite.md",
-    "Apple Notes/Contratos de Trabalho.md",
-    "Apple Notes/Importante.md",
-    "images/Oração.png",
-    "Apple Notes/Oração 1.md",
-    "images/Firestore - transitando.jpeg",
-    "Apple Notes/model_provider = openrouter.md",
-    "Apple Notes/Roteiro Forja Fitness.md",
-    "images/Drawing 2.png",
-    "images/Nova Nota 11.png",
-    "Apple Notes/Antebraço direits.md",
-    "images/Nova Nota 10.png",
-    "Apple Notes/Nova Nota 5.md",
-    "Apple Notes/Comentários das Lições 1.md",
-    "images/Nova Nota 9.png",
-    "Apple Notes/Nova Nota 4.md",
-    "images/Scan 1.pdf",
-    "Apple Notes/Comentários das Lições.md",
-    "Apple Notes/Aliança.md",
-    "Apple Notes/packagecom.anthonyng.workoutapp.md",
-    "images/Nova Nota 8.png",
-    "Apple Notes/Nova Nota 3.md",
-    "images/Nova Nota 7.png",
-    "Apple Notes/Nova Nota 2.md",
-    "images/Foto Salva.png",
-    "Apple Notes/English/Foto Salva.md",
     "images/recording 2.m4a",
-    "images/CLINICA ALDEOTA SUL.pdf",
-    "images/Scan.pdf",
     "images/recording 1.m4a",
-    "images/recording.m4a",
+    "images/placa mãe x570 aorus extreme.jpeg",
+    "images/image.png",
+    "images/image 1.png",
+    "images/file.pdf",
+    "images/curso-259288-aula-00-5d42-completo.pdf",
+    "images/comprovante.pdf",
+    "images/coesao_e_acoplamento.pdf",
+    "images/aula_02_light.pdf",
+    "images/Video Shortcuts.jpeg",
+    "images/Versionamento.jpeg",
+    "images/TRADE.jpeg",
+    "images/Screenshot 2026-07-23 at 14.08.11.png",
+    "images/Screenshot 2024-03-06 at 08.29.18.png",
+    "images/Screenshot 2024-03-05 at 15.44.10.png",
+    "images/Screenshot 2024-03-01 at 11.07.42.png",
+    "images/Scan.pdf",
+    "images/Scan 1.pdf",
+    "images/Imagem.heic",
     "images/IMG_5862.heic",
-    "images/IMG_5714.heic",
-    "images/Gravação de Ligação.m4a"
+    "Apple Notes/😴 Sono.md",
+    "Apple Notes/mqz4gjkp5t@privaterelay.appleid.com.md",
+    "Apple Notes/model_provider = openrouter.md",
+    "Apple Notes/local.conta.fintera.com.br.md",
+    "Apple Notes/li class=list-group-item bg-light.md",
+    "Apple Notes/jaferdaltropompeujr.md",
+    "Apple Notes/jafer.hopto.org.md",
+    "Apple Notes/jafer.daltro@gmail.com open-ai-key = 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.md",
+    "Apple Notes/inlj3&aeO.md",
+    "Apple Notes/imagine que vc está em 2030 com o avanço das IAs e robótica e decide escrever uma carta para as pessoas de 2025, avisando, aconselhando e revelando. o que vc escreveria.md",
+    "Apple Notes/id 12,.md",
+    "Apple Notes/iPad.md",
+    "Apple Notes/https--t.me-serproconcursoti2023-22074.md",
+    "Apple Notes/https--secureshop.firstdata.lv-ecomm-ClientHandlertrans_id=A5qePKwRzkZ987Y2ygK9glm58wc=.md",
+    "Apple Notes/https--opensource.com-sites-default-files-gated-content-curl-cheat-sheet.pdf.md",
+    "Apple Notes/https--jobs.gft.com-job-WFH-Desenvolvimento-Ruby-on-Rails-Pleno-83761-SP-05464000-803958901-.md",
+    "Apple Notes/Workout/Horários da Natação 🏊🏼‍♂️.md",
+    "Apple Notes/Workout/Academia 🏋🏻‍♀️.md",
+    "Apple Notes/Welcome  ClientOS.md",
+    "Apple Notes/Waldecio Rodrigues.md",
+    "Apple Notes/Vídeo Sobre Ganhar Dinheiro.md",
+    "Apple Notes/Vizinhos.md",
+    "Apple Notes/Visita técnica claro.md",
+    "Apple Notes/Visita aos colideres.md",
+    "Apple Notes/Video Shortcuts.md",
+    "Indice.canvas"
   ]
 }
