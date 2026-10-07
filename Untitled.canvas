@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e1058e9806b1230a","x":-440,"y":-240,"width":237,"height":70,"type":"text","text":"Organizar o Canvas\n"},
+		{"id":"f0f1b27e3b6d7ca7","x":-116,"y":-120,"width":250,"height":60,"type":"text","text":"muita coisa"},
+		{"id":"a49e93aa57ef9ca7","x":-160,"y":-340,"width":250,"height":60,"type":"text","text":"é importante"}
+	],
+	"edges":[
+		{"id":"db40eb589b21586f","fromNode":"e1058e9806b1230a","fromSide":"top","toNode":"a49e93aa57ef9ca7","toSide":"left"},
+		{"id":"f30f1a9ddab3d401","fromNode":"e1058e9806b1230a","fromSide":"bottom","toNode":"f0f1b27e3b6d7ca7","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
