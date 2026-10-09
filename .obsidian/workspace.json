@@ -171,16 +171,6 @@
             }
           },
           {
-            "id": "cf91ea77eae6708b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "4086a9be36befaa5",
             "type": "leaf",
             "state": {
@@ -188,6 +178,16 @@
               "state": {},
               "icon": "scroll",
               "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "b4a2bdf3a22289c0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ]
@@ -207,7 +207,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
   "active": "cea30e8dd7b7d1af",

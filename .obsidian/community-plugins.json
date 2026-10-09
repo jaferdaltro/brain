@@ -1,8 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
   "ytranscript",
-  "obsidian-git",
   "obsidian-icon-folder",
   "advanced-canvas",
-  "tag-wrangler"
+  "tag-wrangler",
+  "smart-connections",
+  "smart-lookup"
 ]
