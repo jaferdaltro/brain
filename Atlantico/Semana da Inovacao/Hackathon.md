@@ -7,3 +7,8 @@ Mentorias
 
 
 
+- Crazy 8
+	- Passo 1 - Dobrar uma folha pra que fique 8 retângulos
+	- Passo 2 - Colocar 8 minutos de timer
+	- Passo 3 - Desenhar uma ideia de solução por retângulo (1min/ideia)
+	- 
