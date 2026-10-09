@@ -11,10 +11,14 @@
             "id": "d4d7e489b7d6b47e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atlantico/Semana da Inovacao/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -193,11 +197,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "d4d7e489b7d6b47e",
   "lastOpenFiles": [
+    "Atlantico/Semana da Inovacao/Untitled.md",
     "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
     "Atlantico/Impacta/Agenda.md",
@@ -236,7 +245,6 @@
     "images/image.png",
     "images/image 1.png",
     "images/file.pdf",
-    "images/curso-259288-aula-00-5d42-completo.pdf",
     "images/Video Shortcuts.jpeg",
     "images/Versionamento.jpeg",
     "images/TRADE.jpeg",
