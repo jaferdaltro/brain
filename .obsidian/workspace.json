@@ -167,16 +167,6 @@
             }
           },
           {
-            "id": "cf91ea77eae6708b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "4086a9be36befaa5",
             "type": "leaf",
             "state": {
@@ -186,12 +176,12 @@
               "title": "YouTube Transcript"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375,
-    "collapsed": true
+    "width": 378.95458984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +193,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "f66dd95a68c19436",
   "lastOpenFiles": [
     "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
