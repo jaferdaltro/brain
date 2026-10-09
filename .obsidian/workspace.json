@@ -157,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlantico/Impacta/Agenda.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375
+    "width": 378.95458984375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +196,11 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false
+      "smart-lookup:Smart Lookup: Open lookup view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66dd95a68c19436",
+  "active": "d4d7e489b7d6b47e",
   "lastOpenFiles": [
     "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
