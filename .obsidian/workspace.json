@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b735f377a2cc91ad",
+        "id": "21376957d611cba2",
         "type": "tabs",
         "children": [
           {
-            "id": "cea30e8dd7b7d1af",
+            "id": "d4d7e489b7d6b47e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlantico/Impacta/Agenda.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agenda"
+              "title": "New tab"
             }
           }
         ]
@@ -171,6 +167,16 @@
             }
           },
           {
+            "id": "cf91ea77eae6708b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "4086a9be36befaa5",
             "type": "leaf",
             "state": {
@@ -178,16 +184,6 @@
               "state": {},
               "icon": "scroll",
               "title": "YouTube Transcript"
-            }
-          },
-          {
-            "id": "b4a2bdf3a22289c0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
             }
           }
         ]
@@ -207,15 +203,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cea30e8dd7b7d1af",
+  "active": "d0248eb03af76925",
   "lastOpenFiles": [
+    "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
     "Atlantico/Impacta/Agenda.md",
     "Atlantico/Impacta/Organização Digital.md",
@@ -244,7 +237,6 @@
     "Apple Notes/AMT/Plantões Outubro.md",
     "Apple Notes/AMT/Plantões Junho.md",
     "Apple Notes/AMT/Plantões de Novembro.md",
-    "Apple Notes/AMT/Plantões de Julho.md",
     "Apple Notes/AMT",
     "Apple Notes/Projetos",
     "images/recording.m4a",
