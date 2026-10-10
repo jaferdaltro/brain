@@ -1,5 +1,5 @@
 Mentorias
-- [ ] Design Thinking Express
+- [x] Design Thinking Express - Crazy8
 - [ ] Validação Relâmpago: Testando sua ideia em 30 minutos
 - [ ] Negócios de Impacto
 - [ ] Tecnologia, produto e escalabilidade
