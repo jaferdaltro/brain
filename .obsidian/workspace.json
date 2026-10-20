@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21376957d611cba2",
+        "id": "561a796c5de72a82",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d7e489b7d6b47e",
+            "id": "4d0aba9a80d845c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlantico/Semana da Inovacao/Hackathon.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hackathon"
+              "title": "New tab"
             }
           }
         ]
@@ -198,10 +194,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d4d7e489b7d6b47e",
+  "active": "4d0aba9a80d845c1",
   "lastOpenFiles": [
     "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
