@@ -3,5 +3,6 @@
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
   "accentColor": "#6e2092",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }
