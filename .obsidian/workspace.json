@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "561a796c5de72a82",
+        "id": "3e1e922b6d2efd44",
         "type": "tabs",
         "children": [
           {
-            "id": "4d0aba9a80d845c1",
+            "id": "300c16426b4c8c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlantico/Impacta/Agenda.md",
-                "mode": "preview",
+                "file": "Atlantico/PDI.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agenda"
+              "title": "PDI"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AMT",
+                "query": "creden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,41 +197,45 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "4d0aba9a80d845c1",
+  "active": "300c16426b4c8c0f",
   "lastOpenFiles": [
+    "Atlantico/Férias.md",
+    "Atlantico/HPX/knowlodge/credenciais.md",
+    "Apple Notes/Atlantico/Credenciais.md",
+    "daily/2026-08-26.md",
+    "daily/2026-08-31.md",
+    "daily/2026-09-02.md",
+    "daily/2026-09-06.md",
+    "daily/2026-09-10.md",
+    "daily/2026-09-11.md",
+    "daily/2026-09-15.md",
+    "daily/2026-09-22.md",
+    "daily/2026-09-23.md",
+    "daily/2026-09-24.md",
+    "daily/2026-09-28.md",
+    "daily/2026-09-29.md",
+    "daily/2026-09-30.md",
+    "daily/2026-10-06.md",
+    "daily/2026-10-07.md",
+    "Atlantico/Impacta/Agenda.md",
     "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
-    "Atlantico/Impacta/Agenda.md",
     "Atlantico/Impacta/Organização Digital.md",
     "Atlantico/Impacta/Mundo da Tecnologia.md",
     "Atlantico/Impacta/Links.md",
     "Meetings/daily 30-09-26.md",
     "Meetings/daily 07-10-26.md",
-    "daily/2026-10-07.md",
-    "Apple Notes/Financas/Limite C6.md",
-    "Apple Notes/Financas/Finanças.md",
-    "Apple Notes/Financas/Bitcoin.md",
     "Apple Notes/Financas",
-    "Apple Notes/Contas/DECLARAÇÃO DE IMPOSTO DE RENDA 2024.md",
-    "Apple Notes/Contas/CONTAS FEVEREIRO 24.md",
     "Apple Notes/Contas",
-    "Apple Notes/Casa/Metas Apartamento.md",
-    "Apple Notes/Casa/Metas Apartamento 1.md",
-    "Apple Notes/Casa/JANEIRO.md",
-    "Apple Notes/Casa/Documentação MLar.md",
-    "Apple Notes/Casa/CONTAS MARÇO 24.md",
-    "Apple Notes/Casa/CONTAS MAIO 24 ✔️.md",
-    "Apple Notes/Casa/CONTAS ABRIL 24 ✔️.md",
     "Apple Notes/Casa",
-    "Apple Notes/AMT/Serviços Abril 24.md",
-    "Apple Notes/AMT/Plantões Setembro.md",
-    "Apple Notes/AMT/Plantões Outubro.md",
-    "Apple Notes/AMT/Plantões Junho.md",
-    "Apple Notes/AMT/Plantões de Novembro.md",
     "Apple Notes/AMT",
     "Apple Notes/Projetos",
     "images/recording.m4a",
