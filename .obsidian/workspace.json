@@ -176,8 +176,8 @@
             "state": {
               "type": "transcript-view",
               "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
+              "icon": "lucide-ghost",
+              "title": "transcript-view"
             }
           }
         ],
