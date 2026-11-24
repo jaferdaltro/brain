@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/daily 07-10-26.md",
+                "file": "daily/2026-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily 07-10-26"
+              "title": "2026-11-24"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.3267021179199
+    "width": 309.3267021179199,
+    "collapsed": true
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -197,11 +198,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
   "active": "300c16426b4c8c0f",
   "lastOpenFiles": [
+    "Meetings/daily 07-10-26.md",
+    "daily/2026-11-24.md",
     "Meetings/daily 30-09-26.md",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
@@ -227,8 +234,6 @@
     "Atlantico/Semana da Inovacao",
     "Atlantico/Impacta/Inteligência Artificial.md",
     "Atlantico/Impacta/Organização Digital.md",
-    "Atlantico/Impacta/Mundo da Tecnologia.md",
-    "Atlantico/Impacta/Links.md",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
     "Apple Notes/Casa",
