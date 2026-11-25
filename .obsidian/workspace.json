@@ -178,9 +178,19 @@
               "icon": "scroll",
               "title": "YouTube Transcript"
             }
+          },
+          {
+            "id": "8e729c917a70e132",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
