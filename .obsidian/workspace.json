@@ -175,8 +175,8 @@
             "state": {
               "type": "transcript-view",
               "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
+              "icon": "lucide-ghost",
+              "title": "transcript-view"
             }
           }
         ],
@@ -227,12 +227,7 @@
     "daily/2026-09-29.md",
     "daily/2026-09-30.md",
     "daily/2026-10-06.md",
-    "daily/2026-10-07.md",
-    "Atlantico/Impacta/Agenda.md",
-    "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
-    "Atlantico/Impacta/Inteligência Artificial.md",
-    "Atlantico/Impacta/Organização Digital.md",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
     "Apple Notes/Casa",
@@ -244,7 +239,6 @@
     "images/placa mãe x570 aorus extreme.jpeg",
     "images/image.png",
     "images/image 1.png",
-    "images/file.pdf",
     "images/Video Shortcuts.jpeg",
     "images/Versionamento.jpeg",
     "images/TRADE.jpeg",
