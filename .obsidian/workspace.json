@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2026-11-25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,14 +178,23 @@
               "icon": "lucide-ghost",
               "title": "transcript-view"
             }
+          },
+          {
+            "id": "e359b0e1e24b5e7b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375,
-    "collapsed": true
+    "width": 378.95458984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +213,9 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "300c16426b4c8c0f",
+  "active": "d0248eb03af76925",
   "lastOpenFiles": [
+    "Youtube/Build AI Scraping Agent Hermes Oxylabs.md",
     "Youtube/Meu setup de Hermes.md",
     "daily/2026-11-25.md",
     "quick notes/Ingles.md",
@@ -232,7 +242,6 @@
     "daily/2026-09-24.md",
     "daily/2026-09-28.md",
     "daily/2026-09-29.md",
-    "daily/2026-09-30.md",
     "Atlantico/Semana da Inovacao",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
