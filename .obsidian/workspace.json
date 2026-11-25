@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-11-24.md",
+                "file": "Youtube/YouTube - Hermes Agent no Dia a Dia (Bruno Camargo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-24"
+              "title": "YouTube - Hermes Agent no Dia a Dia (Bruno Camargo)"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.3267021179199,
-    "collapsed": true
+    "width": 309.3267021179199
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -207,8 +206,13 @@
   },
   "active": "300c16426b4c8c0f",
   "lastOpenFiles": [
-    "Meetings/daily 07-10-26.md",
+    "quick notes/Ingles.md",
+    "Youtube/YouTube - Hermes Agent no Dia a Dia (Bruno Camargo).md",
+    "Youtube",
+    "quick notes/Skills.md",
+    "quick notes/ALIAS.md",
     "daily/2026-11-24.md",
+    "Meetings/daily 07-10-26.md",
     "Meetings/daily 30-09-26.md",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
@@ -229,11 +233,7 @@
     "daily/2026-09-30.md",
     "daily/2026-10-06.md",
     "daily/2026-10-07.md",
-    "Atlantico/Impacta/Agenda.md",
-    "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
-    "Atlantico/Impacta/Inteligência Artificial.md",
-    "Atlantico/Impacta/Organização Digital.md",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
     "Apple Notes/Casa",
@@ -245,7 +245,6 @@
     "images/placa mãe x570 aorus extreme.jpeg",
     "images/image.png",
     "images/image 1.png",
-    "images/file.pdf",
     "images/Video Shortcuts.jpeg",
     "images/Versionamento.jpeg",
     "images/TRADE.jpeg",
