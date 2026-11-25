@@ -11,10 +11,14 @@
             "id": "ebed5748c72af18f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-11-24.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-11-24"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.3267021179199
+    "width": 200
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -200,8 +204,9 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "ebed5748c72af18f",
   "lastOpenFiles": [
+    "Apple Notes/Atlantico/Credenciais.md",
     "Youtube/Meu setup de Hermes.md",
     "Youtube",
     "daily/2026-11-24.md",
@@ -210,7 +215,6 @@
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
     "Atlantico/HPX/knowlodge/credenciais.md",
-    "Apple Notes/Atlantico/Credenciais.md",
     "daily/2026-08-26.md",
     "daily/2026-08-31.md",
     "daily/2026-09-02.md",
