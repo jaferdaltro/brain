@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.3267021179199
+    "width": 309.3267021179199,
+    "collapsed": true
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -194,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.95458984375
+    "width": 378.95458984375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +215,7 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "300c16426b4c8c0f",
   "lastOpenFiles": [
     "Youtube/Build AI Scraping Agent Hermes Oxylabs.md",
     "Youtube/Meu setup de Hermes.md",
