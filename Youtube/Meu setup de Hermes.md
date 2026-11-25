@@ -1,4 +1,13 @@
-# YouTube: Como eu uso o Hermes Agent no dia a dia — Bruno Camargo
+---
+title: "Como eu uso o Hermes Agent no dia a dia"
+channel: "Bruno Camargo (Pixel Educação)"
+url: "https://www.youtube.com/watch?v=TSimMWwR6to"
+date: "Agosto 2026"
+video_id: "TSimMWwR6to"
+tags: [HermesAgent, IA, Agentes, Automação, SegundoCérebro, GitHub, VPS, BrunoCamargo, PixelEducação, Produtividade]
+---
+
+# Como eu uso o Hermes Agent no dia a dia — Bruno Camargo
 
 **URL:** https://www.youtube.com/watch?v=TSimMWwR6to
 **Data:** Agosto 2026
@@ -112,9 +121,3 @@ Bruno Camargo mostra como usa o **Hermes Agent** self-hosted em VPS para gerenci
 - Instalador Hermes Pixel Educação (~R$30 — deploy completo: Telegram, agente configurado, VPS)
 - Ledger (sumário diário contexto) — vídeo recente no canal
 - Brain no GitHub (estrutura de pastas, mapa.md)
-
----
-
-## 🏷️ Tags
-
-#HermesAgent #IA #Agentes #Automação #SegundoCérebro #GitHub #VPS #BrunoCamargo #PixelEducação #Produtividade
