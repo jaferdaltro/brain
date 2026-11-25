@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e703e8b8727b6e8",
+        "id": "3e1e922b6d2efd44",
         "type": "tabs",
         "children": [
           {
-            "id": "ebed5748c72af18f",
+            "id": "300c16426b4c8c0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Youtube/Meu setup de Hermes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meu setup de Hermes"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jesu",
+                "query": "creden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +175,8 @@
             "state": {
               "type": "transcript-view",
               "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
+              "icon": "lucide-ghost",
+              "title": "transcript-view"
             }
           }
         ],
@@ -200,10 +204,15 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d0248eb03af76925",
+  "active": "300c16426b4c8c0f",
   "lastOpenFiles": [
+    "daily/2026-11-25.md",
+    "quick notes/Ingles.md",
+    "Youtube/YouTube - Hermes Agent no Dia a Dia (Bruno Camargo).md",
     "Youtube/Meu setup de Hermes.md",
     "Youtube",
+    "quick notes/Skills.md",
+    "quick notes/ALIAS.md",
     "daily/2026-11-24.md",
     "Meetings/daily 07-10-26.md",
     "Meetings/daily 30-09-26.md",
@@ -224,12 +233,7 @@
     "daily/2026-09-28.md",
     "daily/2026-09-29.md",
     "daily/2026-09-30.md",
-    "daily/2026-10-06.md",
-    "daily/2026-10-07.md",
-    "Atlantico/Impacta/Agenda.md",
-    "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
-    "Atlantico/Impacta/Inteligência Artificial.md",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
     "Apple Notes/Casa",
