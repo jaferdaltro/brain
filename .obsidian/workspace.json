@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2026-11-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,23 +188,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "e359b0e1e24b5e7b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 416.9545593261719
+    "width": 416.9545593261719,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +207,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
   "active": "d0248eb03af76925",
   "lastOpenFiles": [
+    "Youtube/Build AI Scraping Agent Hermes Oxylabs.md",
     "daily/2026-11-24.md",
     "daily/2026-11-25.md",
     "Apple Notes/Atlantico/Credenciais.md",
@@ -247,7 +243,6 @@
     "daily/2026-10-06.md",
     "daily/2026-10-07.md",
     "Atlantico/Impacta/Agenda.md",
-    "Atlantico/Semana da Inovacao/Hackathon.md",
     "Atlantico/Semana da Inovacao",
     "Apple Notes/Financas",
     "Apple Notes/Contas",
