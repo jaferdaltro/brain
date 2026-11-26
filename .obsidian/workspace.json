@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2026-11-25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,6 +181,16 @@
           },
           {
             "id": "8e729c917a70e132",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "e359b0e1e24b5e7b",
             "type": "leaf",
             "state": {
               "type": "git-view",
