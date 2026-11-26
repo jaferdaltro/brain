@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e703e8b8727b6e8",
+        "id": "3e1e922b6d2efd44",
         "type": "tabs",
         "children": [
           {
-            "id": "ebed5748c72af18f",
+            "id": "300c16426b4c8c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily/2026-11-25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jesu",
+                "query": "creden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.3267021179199
   },
   "right": {
     "id": "17fe950676c8f9fd",
@@ -175,12 +175,12 @@
             "state": {
               "type": "transcript-view",
               "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
+              "icon": "lucide-ghost",
+              "title": "transcript-view"
             }
           },
           {
-            "id": "8e729c917a70e132",
+            "id": "e359b0e1e24b5e7b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.9545593261719,
+    "width": 378.95458984375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -214,21 +214,27 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "ebed5748c72af18f",
+  "active": "d0248eb03af76925",
   "lastOpenFiles": [
     "Youtube/Hermes Agent Deploy e CRM.md",
     "daily/2026-11-24.md",
     "daily/2026-10-07.md",
     "daily/2026-11-25.md",
     "Youtube/Build AI Scraping Agent Hermes Oxylabs.md",
-    "Apple Notes/Atlantico/Credenciais.md",
     "Youtube/Meu setup de Hermes.md",
+    "daily/2026-11-25.md",
+    "quick notes/Ingles.md",
+    "Youtube/YouTube - Hermes Agent no Dia a Dia (Bruno Camargo).md",
     "Youtube",
+    "quick notes/Skills.md",
+    "quick notes/ALIAS.md",
+    "daily/2026-11-24.md",
     "Meetings/daily 07-10-26.md",
     "Meetings/daily 30-09-26.md",
     "Atlantico/PDI.md",
     "Atlantico/Férias.md",
     "Atlantico/HPX/knowlodge/credenciais.md",
+    "Apple Notes/Atlantico/Credenciais.md",
     "daily/2026-08-26.md",
     "daily/2026-08-31.md",
     "daily/2026-09-02.md",
