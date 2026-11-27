@@ -5,712 +5,897 @@ language: pt
 translated: true
 ---
 
-# Transcrição (idioma original: inglês)
+# Transcrição (idioma original: português)
 
-0:00 The biggest lie you've been told about
-0:01 money is that the harder you work, the
-0:03 richer you'll get. But let's be real. Do
-0:06 you think that's how I make over
-0:07 $100,000 per week? If you want to get
-0:10 rich, you need a way of making money
-0:12 that doesn't depend on you trading every
-0:14 hour of your day for a paycheck. It's
-0:16 called passive [music] income. And now,
-0:18 thanks to AI, there are more ways to
-0:20 generate this than ever before. So, here
-0:23 are seven ideas I strongly suggest you
-0:25 consider, along with my ratings on each.
-0:31 If you've got money sitting in your bank
-0:33 account right now, [music] there's a
-0:34 good chance you're missing out on the
-0:36 easiest passive income that exists. In
-0:38 the USA, a normal bank account pays less
-0:41 than half of a percent. In fact, 0.38%
-0:46 is the average. But the best high-yield
-0:48 accounts are actually paying around 4.2%
-0:54 and in the UK, the top easy access
-0:56 accounts are currently paying around
-0:58 4.5%.
-0:59 Let's say you've got $10,000 in savings.
-1:03 Now, in an average account paying about
-1:05 0.38%,
-1:08 after a whole year, you'd earn about
-1:10 $38. Now, that's [clears throat] barely
-1:13 enough to pay for a takeout on a Friday
-1:15 night. Now, let's say you put that same
-1:17 $10,000 in a high-yield account at 4.2%.
-1:23 After a year, you'd earn $420.
-1:27 That's an additional $382
-1:30 earned completely passively just by
-1:32 making one simple decision to move your
-1:35 money into a better account. So, how do
-1:37 you find the best high-yield savings
-1:39 account that's going to pay you as much
-1:40 passive income as possible? Well, I'd go
-1:43 on a comparison site like this, sort by
-1:46 the highest interest rate, and look for
-1:48 one with no monthly fees. Make sure the
-1:51 account comes with a proper deposit
-1:53 protection scheme like FDIC insurance,
-1:56 which protects your money up to
-1:57 $250,000.
-1:59 And in the UK, look for FSCS, which
-2:02 protects you up to £120,000
-2:05 per bank group. Secondly, it's worth
-2:07 noting that a lot of the top rates like
-2:09 this one here include a bonus that only
-2:12 lasts a few months. It's basically like
-2:14 a a little gift for new customers. The
-2:17 key though is to choose an account that
-2:19 still has a competitive return even
-2:21 after the bonus period ends, so you
-2:23 don't have to keep switching every time.
-2:25 So, now for the ratings. For capital
-2:28 required, I'm giving this a one because
-2:30 most banks will let you open an account
-2:32 with as little as $1. For setup effort,
-2:35 it's an easy one. If you can buy
-2:37 something online, then you can open an
-2:39 account. For ongoing effort, surprise,
-2:41 surprise, it's a one. You can either
-2:44 deposit a chunk of cash and forget about
-2:46 it or set up an automatic payment that
-2:48 moves a set portion of your paycheck and
-2:50 puts it into your high-yield account
-2:52 every month. And finally, for income
-2:54 potential, guess what? It's a one as
-2:56 well. To make just $100 a week in
-2:59 passive income from a high-yield savings
-3:01 account paying 4.2%, you'd need around
-3:05 $123,810
-3:09 sitting in the bank. So, although this
-3:11 is very passive, the earning potential
-3:13 is limited. To make your money work
-3:15 harder, we need to move from saving it
-3:17 to investing it, which brings us on to
-3:23 >> [music]
-3:24 >> What if Coca-Cola,
-3:26 McDonald's,
-3:29 and hundreds of other companies paid you
-3:31 a little bit of their profits every
-3:33 quarter straight into your bank account
-3:35 without you having to do any work for
-3:36 them? Well, that's exactly what you can
-3:38 get by owning dividend stocks. You see,
-3:40 when some companies make a profit, they
-3:42 choose to pay part of it out to the
-3:44 people who own shares in the business.
-3:46 That's called a dividend. Now, you could
-3:48 go out and buy shares in Coca-Cola,
-3:50 McDonald's, and loads of other
-3:52 dividend-paying companies individually,
-3:54 but then you'd have to decide which
-3:56 companies to invest in, how much to put
-3:58 into each one, and you're relying much
-4:00 more heavily on those individual
-4:02 businesses continuing to perform and pay
-4:04 their dividends. That's where
-4:07 ETFs come in.
-4:09 An ETF or exchange-traded fund is
-4:12 basically a basket full of investments
-4:15 that you can buy in one go. And a
-4:17 dividend ETF is one that specifically
-4:20 focuses on companies that pay, guess
-4:22 what? Dividends. So, instead of trying
-4:24 to pick loads of dividend stocks
-4:25 yourself, one fund can spread your money
-4:27 across hundreds, sometimes even
-4:30 thousands of different companies for
-4:31 you. So, if one company cuts its
-4:33 dividend, the impact is usually much
-4:35 smaller than if you'd invested heavily
-4:37 in that one company on its own. So, let
-4:39 me show you how to invest in one. On
-4:42 Trading 212, let's search for a dividend
-4:45 ETF. This is pretty similar on most
-4:48 investing platforms. Now, this Vanguard
-4:51 FTSE All-World High Dividend Yield ETF
-4:54 will do nicely. Now, I like this one
-4:56 because it specifically focuses on
-4:58 companies paying higher than average
-5:00 dividends, but they're spread across
-5:02 countries all over the world. So, we're
-5:05 not really relying too heavily on one
-5:07 economy doing well. Now, let's press
-5:10 buy,
-5:12 invest £100,
-5:15 and yep, all looks good. So, send buy
-5:19 order.
-5:20 Okay, cool. That's all done. Since I was
-5:23 planning to talk about Trading 212
-5:25 anyway, I reached out to them to see if
-5:27 they'd be interested in sponsoring this
-5:28 portion of the video. They agreed and
-5:30 are offering free fractional shares
-5:32 worth up to £100 to anyone that uses the
-5:34 code Tilbury when they create an
-5:36 account. Plus, you can get more by
-5:39 inviting your friends. Both of you will
-5:41 get free fractional shares as long as
-5:43 they fund their account. Also,
-5:47 don't worry if you've already opened an
-5:49 account within the last 10 days. You can
-5:51 still use the promo code Tilbury in the
-5:53 app and receive your free fractional
-5:55 shares. Now, time for the ratings. For
-5:58 capital required, I'm giving it a one.
-6:00 You can get started with as little as a
-6:02 dollar, so you really don't need much
-6:04 money to begin. For setup effort, to
-6:06 download an investing app and using an
-6:08 ETF instead of trying to pick individual
-6:10 dividend stocks yourself makes things
-6:12 even easier. For ongoing effort, it's
-6:15 also a one because you can actually
-6:17 automate your investment so you never
-6:19 have to think about it again. And for
-6:21 income potential, we've got our first
-6:23 two. The ETF we invested in earlier
-6:26 currently pays a 2.97%
-6:28 dividend yield. You also own the shares
-6:30 themselves so if they rise in value, you
-6:32 can make money from that growth, too.
-6:34 But as we're just talking passive
-6:36 income, at a 2.97%
-6:38 yield, you would need roughly $175,000
-6:43 invested to generate $100 a week. Now, I
-6:46 know what you're thinking. These first
-6:48 two levels are great if you already have
-6:49 money to save and invest, but what if
-6:51 you're starting with $0? Well, in that
-6:54 case, it makes much more sense to start
-6:56 using AI instead [music] of your money
-6:58 to build assets, which brings me on to
-7:03 >> [music]
-7:05 >> Imagine if you could make passive income
-7:06 selling products that don't even exist
-7:09 until someone places an order. That's
-7:11 entirely possible with AI
-7:13 print-on-demand. You create a design
-7:15 once, put it on t-shirts, hats, or like
-7:17 I did here on posters. When someone
-7:19 orders, the platform prints and ships it
-7:22 for you so you don't need to buy stock
-7:24 up front and that means you can start
-7:26 with very little money. Create something
-7:28 once and keep earning from it again and
-7:30 again. Let's create a product together
-7:32 so I can show you just how simple it is.
-7:34 There's a few platforms we could use
-7:36 here, but for this example, I'm going to
-7:38 use Gelato. This isn't sponsored, by the
-7:41 way, and there are alternative websites,
-7:43 but I've used this tool before and it's
-7:45 pretty straightforward, to be honest.
-7:47 First, let's click create a product in
-7:49 the top right and then create a
-7:52 template.
-7:53 There are loads of different products
-7:55 here, but I'm going to keep it very
-7:56 simple and go with best sellers and
-7:59 choose a classic crew neck t-shirt. We
-8:02 can choose from loads of different
-8:04 colors, but I'm going to stick with
-8:06 black cuz it's nice and simple. Now, it
-8:09 wants us to add our design, so we've got
-8:12 to think of something that's actually
-8:13 going to appeal to people. So, hmm.
-8:17 There seems to be a lot of Superman
-8:18 t-shirts on here, but unless these
-8:21 sellers have actually asked permission
-8:22 to use the Man of Steel, they could
-8:24 actually get into some legal problems.
-8:26 But, this has shown me there is demand
-8:29 for famous characters. So, I have an
-8:31 idea. There's this little legal loophole
-8:33 we can exploit called the public domain.
-8:35 Once a character enters the public
-8:37 domain, the original copyright's
-8:39 expired, which means you can use that
-8:41 character without asking for permission.
-8:43 And I've got the perfect one in mind,
-8:45 Sherlock Holmes. As I reckon there's
-8:47 quite a lot we can do with him. Give me
-8:51 20 funny t-shirt slogans
-8:55 based on the public domain literary
-8:57 version of Sherlock Holmes.
-9:01 Right, we've got crime solved, social
-9:04 skills pending. Next, we need the actual
-9:06 design.
-9:09 I thought I need to do this a couple of
-9:10 times to get something good enough, but
-9:13 that's actually really good. Let's
-9:15 download that and head back over to
-9:17 Gelato. Now, let's just drag and drop
-9:21 our design onto the shirt. If we were
-9:23 actually going to sell this, we'd
-9:25 continue through all of these steps, add
-9:27 our title, description, and pricing, and
-9:29 then connect it to Etsy. Now,
-9:32 for the ratings. For capital required,
-9:35 I'm giving it a one. This is one of the
-9:37 best parts because you don't need any
-9:39 stock up front. For setup effort, I'm
-9:41 giving it a two.
-9:44 There is some work required up front
-9:46 because you need to find a niche, create
-9:48 a design, and get everything set up.
-9:50 But, as we've just seen, AI can make a
-9:52 lot of that process pretty easy. For
-9:54 ongoing effort, I'm giving it a two.
-9:58 Once everything's connected, your chosen
-10:00 print on demand platform handles the
-10:02 fulfillment for you. And finally, for
-10:04 income potential, I'm giving it a three.
-10:08 This has much more upside compared to
-10:10 the capital required than something like
-10:12 a savings account or dividend stocks
-10:14 because just one successful design can
-10:17 potentially sell hundreds or even
-10:19 thousands of times. So, take this store
-10:21 for example. They've made around 5,700
-10:24 sales in just 2 years. If their average
-10:26 order value was roughly $24, that would
-10:29 be about $136,800
-10:32 in total sales, but of course, that's
-10:34 not all profit. So, for our $100 a week
-10:37 target, if we were making around 30%
-10:40 profit margin on a $24 order, we'd make
-10:44 about $7.20
-10:46 per sale. That means we'd only need
-10:48 around 14 sales a week to hit our $100
-10:52 target.
-10:54 >> [music]
-10:57 >> When it comes to e-commerce, this is
-10:59 probably as passive as it gets. You can
-11:01 use AI to build the online store, help
-11:04 you find winning products, and after
-11:05 someone places an order, automatically
-11:08 send the products out to your customers.
-11:10 It's pretty hands-off because you can do
-11:11 everything from your laptop and never
-11:13 have to touch a single product. So, let
-11:15 me show you how to set up a store really
-11:17 quickly. I'm going to start by heading
-11:19 to this free AI tool called Build Your
-11:21 Store. I'll leave a link in the
-11:23 description if you want to follow along.
-11:25 First, I'm going to click Build My Free
-11:27 Store.
-11:29 That takes me through to the login, so
-11:31 I'm going to quickly sign in here.
-11:35 Okay, now it's asking me to claim my
-11:37 store, so I'm going to click that.
-11:40 And now we get to choose what sort of
-11:42 store we want to build. We got fashion
-11:44 and apparel, pets, electronics and
-11:47 gadgets, sports and fitness, but for
-11:49 this example, let's go with home and
-11:52 garden. Now it's giving me a few
-11:53 different banners for the home page.
-11:56 Yeah, actually, I quite [clears throat]
-11:58 like this one here, and I think
-12:01 gardening supplies will sell pretty
-12:03 well. And now this is actually one of
-12:05 the best things about using Build Your
-12:07 Store. It gives you a great discount on
-12:09 Shopify, which is the number one
-12:11 platform in the world to host online
-12:12 stores. It's free for the first 3 days,
-12:15 and then just $1 a month for the next 3
-12:17 months. Now, I'll quickly speed through
-12:20 the next few steps as it's pretty
-12:22 self-explanatory, to be honest.
-12:32 Right, the AI is now customizing our
-12:34 store. So, the next step is to add some
-12:37 winning products. To do this, we need to
-12:39 click this button here that says
-12:41 register to AutoDS. And as you can see,
-12:45 it's just 99 cents to get started. Then
-12:48 this will add loads of winning products
-12:49 automatically to our new Shopify store
-12:52 and connect our products with suppliers.
-12:54 And there we go. Oh, that was pretty
-12:57 easy. As you can see, AutoDS has already
-13:00 filled the store with products based on
-13:01 the niche we chose. And lots of these
-13:04 actually fit the brand really well. If
-13:06 you give this go and there's anything
-13:07 you don't like, it's super easy to
-13:09 search AutoDS for alternative winning
-13:11 products and do some database research
-13:14 with their cloud connector. But that
-13:15 stuff only takes a few hours to tweak.
-13:18 Now, for the ratings. For capital
-13:21 required, I'm giving it a two.
-13:23 Because you don't need to buy loads of
-13:25 inventory before you know whether anyone
-13:27 wants the product. And I did all of that
-13:29 setup for 99 cents. It can't be a one
-13:32 out of five because you'll probably need
-13:34 some money to buy sample products and
-13:36 make some organic marketing videos. For
-13:38 setup effort, I'm also giving it a two.
-13:41 In the past, if you were to build a
-13:43 store like this, it would have taken
-13:44 ages and been pretty difficult. But the
-13:47 AI store builder makes it incredibly
-13:49 easy as it does pretty much all of the
-13:51 setup for you. For ongoing effort, I'm
-13:53 giving it a three.
-13:56 Because you still need to do some
-13:58 marketing, test products, and work out
-14:00 what's actually selling. And finally,
-14:02 for income potential, let's go for a
-14:05 3.5.
-14:08 With the right winning product and a
-14:09 professional-looking store, you can
-14:11 definitely make a lot of passive income
-14:13 here. For a $100 a week target, I can
-14:16 actually use some real numbers from a
-14:18 challenge I did before. I set up a store
-14:20 selling fitness products, and one of the
-14:22 products was these little breathing
-14:24 trainers you use to make exercising
-14:26 harder. After my expenses, I was making
-14:29 roughly $8 profit every time I sold one.
-14:32 So, to make around $100 a week, I'd need
-14:35 roughly 13 sales. As I wanted to use
-14:39 AutoDS for this method anyway, I asked
-14:42 them if they wanted to sponsor this part
-14:43 of the video. They said yes, so I've
-14:45 left their link in the description if
-14:47 you want to check it out.
-14:53 One of the best passive [music] income
-14:55 opportunities that ever exist is a
-14:57 personal brand. And yes, that means
-15:00 showing your face. I know that's scary
-15:02 for a lot of people, but that's also why
-15:04 there's less competition. You don't need
-15:06 to be an expert, either. You can simply
-15:08 document what you're learning, building,
-15:10 and improving at. I started this channel
-15:13 to share what I knew, not because I
-15:15 thought I'd get millions of subscribers,
-15:17 but over the last 5 years, my personal
-15:19 brand has gone on to generate well over
-15:21 10 million dollars. That income was
-15:24 never the main reason I did it, but it
-15:26 shows you just how valuable a personal
-15:28 brand can become if you stick with it.
-15:30 So, how do you actually do that? Well,
-15:32 let's take this video for example, how
-15:35 to film interviews under $1,500.
-15:39 It only has around 150,000 views, but
-15:41 because it targets a very specific
-15:44 audience, it could be earning in several
-15:46 different ways. First is ad revenue. For
-15:49 this type of content, 150,000 views
-15:51 could mean roughly $1,000 to $1,500,
-15:54 and that can keep growing as the videos
-15:56 get more views. Then, if we look in the
-15:59 description, there's a sponsor, digital
-16:02 products, and affiliate links to the
-16:04 gear he recommends. So, one useful video
-16:07 can make money from ads, sponsors,
-16:09 products, and commission long after it
-16:11 was uploaded. And you could do the same
-16:13 around something you already know, or
-16:15 simply document something you're
-16:17 learning as you go. Okay, now for the
-16:20 ratings. For capital required, this gets
-16:24 a two.
-16:25 You can genuinely start with a phone
-16:27 you've already got, and this can
-16:28 actually be an advantage because it
-16:30 keeps things looking natural. Once you
-16:32 get some momentum, you can always
-16:33 upgrade to a better microphone or some
-16:35 good lighting, but it's not an excuse
-16:37 not to start. For setup effort, let's
-16:41 two.
-16:42 You could film your first video today,
-16:44 especially with short-form content like
-16:46 Instagram Reels and YouTube Shorts. Once
-16:49 you understand what makes content work,
-16:51 creating and posting it gets much
-16:52 easier. I know this firsthand after
-16:55 growing my brand to over 20 million
-16:57 followers and 4.8 billion views. If you
-16:59 want a bit of help with your own
-17:01 personal brand, I'm going to be sending
-17:03 out some behind-the-scenes secrets that
-17:05 I've never shared before, completely
-17:07 free. If that interests you, then I'll
-17:09 drop a link in the description. For
-17:11 ongoing effort, I'm giving it a three.
-17:15 Because if you want the brand to keep
-17:16 growing, you've got to keep creating,
-17:18 but remember, while you're making the
-17:20 new stuff, the old stuff can still be
-17:22 out there getting discovered. And for
-17:24 income potential, this gets
-17:27 a five.
-17:29 Because once you've built an audience
-17:30 that trusts you, you're not relying on
-17:32 one single way of getting paid. For a
-17:34 $100 a week target, let's just use
-17:36 YouTube Ads because that's the easiest
-17:39 one to measure. If a channel
-17:40 [clears throat] was earning around $10
-17:42 for every thousand long-form views,
-17:44 you'd need roughly 10,000 views a week
-17:48 to make $100 from ads. And remember,
-17:51 that's only the ads. It doesn't include
-17:53 affiliate income, sponsors, or sales of
-17:56 anything you've created yourself, and
-17:58 that's why this gets a five.
-18:03 >> [music]
-18:04 >> This next level is all about using AI to
-18:07 build an app for you, and the potential
-18:09 upside is massive because you can have
-18:11 AI build it once, then have the same
-18:14 customers keep paying you every month to
-18:16 use it. Until fairly recently, this
-18:18 would have been out of reach for a lot
-18:20 of people because you either needed to
-18:21 know how to code or pay someone who did.
-18:24 And trust me, computer programmers are
-18:27 expensive. But luckily now, that's
-18:29 completely changed. With Vibe coding,
-18:31 you can now describe the app you want in
-18:33 plain English and AI can build a working
-18:35 version for you. Let's give it a go. For
-18:38 this, I'm going to use Base 44. This
-18:40 isn't sponsored and there's loads of
-18:42 these AI app builders around now, so you
-18:45 have a few options to choose from. I'm
-18:47 going to click create your app. And now
-18:50 I need something to build. One of the
-18:52 biggest mistakes I see people making
-18:54 time and time again is building an app
-18:56 aimed at the general public, such as a
-18:58 ride share app or general fitness
-19:01 tracker. In these cases, you're
-19:03 competing against the big boys like Uber
-19:05 and MyFitnessPal. Instead, if you really
-19:08 want to make passive income, then you
-19:10 need to build an app that solves a very
-19:11 specific problem for a business owner
-19:13 because the users normally have bigger
-19:15 budgets. And once your app becomes part
-19:17 of how they run their business, they
-19:19 rely on it. So, they'll keep paying you
-19:21 month after month. So, let's target
-19:23 driving instructors. They've got a clear
-19:25 problem as they could be teaching 20 or
-19:28 30 people at once and somehow have to
-19:30 keep track of where everyone's up to.
-19:32 Okay, so I've asked ChatGPT to make a
-19:35 detailed prompt describing what I want
-19:37 the app to do. So, let's take that and
-19:40 paste it into Base 44.
-19:44 Now, let's see what it builds.
-19:48 Okay, and there we have it. So, it's
-19:51 called Clutch, which is actually a
-19:53 pretty cool name for a driving
-19:55 instructor app. It looks like we've got
-19:57 a dashboard here for all the active
-20:00 learners and their stats. And we can
-20:02 click into these profiles and play
-20:04 around with the toggles inside.
-20:07 Um I can see this being very useful for
-20:09 driving instructors. It's really simple
-20:12 to change things, too. We can just type
-20:14 it into the chat here and it should
-20:16 update the app for us. So, for example,
-20:19 I'm going to say
-20:21 make this
-20:24 dark mode
-20:25 and add the ability for a learner to
-20:28 book a new lesson straight into a
-20:31 calendar.
-20:34 This looks great.
-20:37 To be honest, I can't believe how
-20:38 quickly it made those changes. Now
-20:42 for the ratings. For capital required,
-20:44 I'm going to give it
-20:46 a three.
-20:48 Compared to what it would have cost to
-20:49 hire developers to build something a few
-20:51 years ago, this is very affordable and
-20:53 set up costs are pretty low, but you
-20:56 will need to spend some money on
-20:57 marketing the app unless you're already
-20:59 building a personal brand. So, for set
-21:02 up effort, it's a
-21:04 three.
-21:06 As you've seen, AI has made actually
-21:08 building the app much easier, but you
-21:09 still need to find a problem worth
-21:11 solving, get everything working
-21:13 properly, and then prove that people
-21:15 actually want it. For ongoing effort,
-21:18 it's a three.
-21:20 Once somebody signs up, you're not
-21:21 personally delivering a service to them
-21:23 every month, which is obviously great,
-21:26 but the app still needs maintaining.
-21:28 Customers will occasionally need help,
-21:29 and you'll probably keep making
-21:31 improvements as you learn what people
-21:33 actually want. And finally, for income
-21:35 potential,
-21:36 I'm giving it
-21:38 a five. Because once you've built
-21:41 something businesses rely on, you can
-21:43 keep adding new users without having to
-21:45 rebuild a product for every person who
-21:47 joins. So, for a $100 a week target,
-21:49 let's use Clutch. For a driving
-21:51 instructor app like this, I think
-21:53 something around $29 a month would be a
-21:55 pretty reasonable starting price. If
-21:58 it's helping them manage their learners,
-22:00 save time arranging lessons, and give
-22:02 their customers a better service, that
-22:04 feels like a fairly easy amount for a
-22:06 business to justify. If you get 15
-22:08 subscribers paying around $29 per month,
-22:11 then you'll be making just over $100 per
-22:14 week in passive income. But instead of
-22:17 somebody paying you $29 a month to use
-22:20 your app, imagine they're paying you
-22:22 hundreds or even thousands every month
-22:24 to use an asset you own, while that
-22:27 asset could also be going up in value at
-22:29 the same time. That brings me on to
-22:32 >> [music]
-22:37 >> There's this idea property is the
-22:39 ultimate passive income machine. You buy
-22:42 a house, rent it out, then sit back
-22:44 while the money rolls in every month.
-22:46 But most people make it far more
-22:48 hands-on than it needs to be, and
-22:50 sometimes the numbers don't even work.
-22:52 Let me show you. The typical American
-22:54 home is worth roughly $370,000.
-22:59 And if you put 20% down, that's $74,000
-23:04 of your own money up front. At around 7%
-23:07 interest, your mortgage is roughly
-23:10 $1,970
-23:12 a month. And a typical single-family
-23:15 home rents for around $2,289
-23:19 per month. At first, that looks like
-23:22 roughly $320
-23:24 profit. But then you've got things like
-23:26 maintenance costs and management fees.
-23:28 If we allow roughly 1% of the property's
-23:30 value each year for maintenance, plus
-23:31 around 8% of the rent for management,
-23:34 that's roughly another $500 a month,
-23:37 which leaves you with around negative
-23:39 $180
-23:42 a month. And remember, we still haven't
-23:44 allowed anything for periods without a
-23:46 tenant or the day when something
-23:47 unusually expensive decides to break.
-23:50 Now, obviously, good property investors
-23:52 can find deals where these numbers work
-23:54 much better, but that's the point. You
-23:56 can't just buy an average house, rent it
-23:58 out, and assume you've created passive
-24:00 income. So, does that mean property is a
-24:02 bad investment? Absolutely not. Your
-24:05 tenant is helping pay down your debt,
-24:08 and hopefully the property itself
-24:09 becomes more valuable over time.
-24:11 Historically, US house prices have grown
-24:13 by roughly 4.5% a year since 2001. At
-24:17 that rate, our $370,000
-24:20 house would be worth roughly $575,000
-24:24 after 10 years. So, So, generally great
-24:27 for building wealth. But this video is
-24:29 about passive income, which is money
-24:31 actually coming into your bank account.
-24:33 So, how do I make property do that?
-24:35 Well, this is one of my commercial
-24:38 units, and let's compare it using the
-24:41 exact same numbers. I bought this
-24:43 property for roughly $200,000.
-24:47 And I paid for the whole thing in cash,
-24:49 so that's also roughly how much of my
-24:51 money went into the property up front,
-24:55 which means my mortgage payment is zero.
-24:58 When I first bought it, the rent was
-25:00 roughly $1,850
-25:02 a month. Today, it's around $3,600
-25:07 a month. And because of the way my
-25:08 commercial lease is structured, the
-25:10 tenant is responsible for the
-25:12 maintenance and repairs themselves. That
-25:14 also means I don't need a management
-25:16 company dealing with those things for
-25:17 me. So, for the other costs we just
-25:19 included on the residential property,
-25:21 zero. Which means with no mortgage
-25:24 payment either, that $3,600
-25:28 a month in rent is effectively what's
-25:30 left before tax and any other owner
-25:32 specific costs we haven't included in
-25:34 either example. But, there's another
-25:35 part we haven't even put on this page.
-25:38 The building has gone from being worth
-25:40 around $200,000 when I bought it to
-25:43 roughly $630,000
-25:45 today. So, I've had income coming in
-25:47 while the asset itself has increased in
-25:49 value. That's why property can be
-25:51 brilliant for building wealth and
-25:53 passive income. It just doesn't
-25:54 necessarily do both from day one. Now,
-25:58 for the ratings. For capital required,
-26:01 this is an obvious five. Property needs
-26:05 serious capital if you want strong cash
-26:07 flow. For setup effort, I'm giving it
-26:10 a four.
-26:12 There's quite a lot involved in finding
-26:14 the right property, doing your checks,
-26:16 sorting the legal side, and getting the
-26:18 right tenant in there. For ongoing
-26:19 effort, I'm giving it a two.
-26:23 A normal rental can require more work,
-26:25 but management can be outsourced, and a
-26:27 commercial property like this can be
-26:29 incredibly hands-off. And finally,
-26:31 income potential. I'm giving that
-26:35 a five. You've already seen how much
-26:37 something like this can generate. So,
-26:39 what would it actually take to make $100
-26:42 a week from property? If you owned the
-26:44 property outright, a simple way to think
-26:46 about it is that a decent rental might
-26:48 bring in around 7 to 8% of its value
-26:51 each year in rent. So, a $100,000
-26:54 property could bring in roughly $7,500
-26:57 a year, or about $625
-27:00 a month. Then, once we take away the
-27:02 ongoing costs, you could be left with
-27:04 around $100 a week. So, if you wanted
-27:06 around $100 a week in genuine passive
-27:09 income from a property, you'll probably
-27:11 need to own something worth roughly
-27:13 $100,000
-27:15 outright in the right area. If you want
-27:17 to learn the laziest ways to make money
-27:19 with AI for beginners, I'm going to
-27:21 leave that video right up there, but
-27:23 don't click on it just yet. Make sure
-27:25 you're subscribed if you want to grow
-27:26 your wealth, okay? I'll see you over
-27:28 there.
+0:00 A maior mentira que te contaram sobre
+0:01 dinheiro é que quanto mais você
+0:03 trabalha, mais rico você fica.
+0:05 Mas vamos ser sinceros,
+0:06 você acha que é assim que eu ganho
+0:08 mais de $100,000 USD por semana?
+0:09 Se você quer ficar rico,
+0:11 precisa de uma forma de ganhar
+0:12 dinheiro que não dependa de você
+0:14 trocar cada hora do seu dia por um salário.
+0:16 E isso se chama renda passiva.
+0:18 E agora, graças à inteligência
+0:19 artificial, nunca foi tão fácil gerar
+0:21 esse tipo de renda.
+0:22 Então aqui estão sete ideias que
+0:24 recomendo fortemente que você
+0:25 considere junto com as minhas
+0:26 avaliações sobre cada uma.
+0:31 Se você tem dinheiro parado na sua
+0:33 conta bancária agora,
+0:34 há uma boa chance de que você esteja
+0:36 perdendo a renda passiva mais fácil
+0:38 que existe.
+0:38 Nos Estados Unidos,
+0:39 uma conta bancária comum rende menos
+0:41 de 0,5%.
+0:43 Na verdade, a média é de 0,38%.
+0:47 Mas as melhores contas de alto
+0:49 rendimento estão pagando cerca de 4,2%.
+0:54 E no Reino Unido, as melhores contas
+0:56 de fácil acesso estão atualmente
+0:57 pagando cerca de 4,5%.
+0:59 Vamos supor que você tenha $10,000 USD
+1:02 em poupança.
+1:03 Então, em uma conta bancária comum que
+1:05 rende 0,38%, depois de um ano inteiro,
+1:09 você ganharia aproximadamente $38 USD.
+1:12 Isso mal daria para pagar um delivery
+1:14 em uma cesta à noite.
+1:16 Agora, digamos que você coloque esses
+1:18 mesmos $10,000 USD em uma conta de
+1:20 alto rendimento a 4,2%.
+1:23 Depois de um ano, você ganharia
+1:26 $420 USD.
+1:27 São $382 USD a mais ganhos de forma
+1:31 totalmente passiva,
+1:32 simplesmente por tomar uma decisão,
+1:34 transferir seu dinheiro para uma conta
+1:36 que rende mais.
+1:37 Então, como você encontra a melhor
+1:38 conta poupança de alto rendimento que
+1:40 vai te pagar o máximo de renda passiva
+1:41 possível?
+1:42 Bom, eu entraria no site de comparação
+1:44 como este, ordenaria as ações pela
+1:46 maior taxa de juros e procuraria uma
+1:49 conta sem tarifas mensais.
+1:51 Certifique-se de que a conta tenha um
+1:52 esquema de proteção de depósito
+1:53 adequado, como o seguro FDIC,
+1:56 que protege seu dinheiro em até
+1:57 $250,000 USD.
+1:59 E no Reino Unido,
+2:00 procure os FSCS, que te protege até
+2:03 £120,000 por grupo bancário.
+2:06 Em segundo lugar, vale a pena notar
+2:08 que muitas das taxas mais altas,
+2:10 como esta aqui,
+2:11 incluem um bônus que dura apenas
+2:12 alguns meses.
+2:13 É basicamente um pequeno presente para
+2:16 novos clientes.
+2:17 A chave, no entanto, é escolher uma
+2:18 conta que ainda tenha um retorno
+2:19 competitivo, mesmo depois que o
+2:21 período de bônus terminar,
+2:23 para que você não tenha que ficar
+2:24 trocando toda vez.
+2:25 Então, agora, para as avaliações.
+2:28 Quanto ao capital necessário,
+2:30 dou nota 1, porque a maioria dos
+2:31 bancos permite abrir uma conta com
+2:33 apenas um dólar.
+2:34 Para a configuração,
+2:35 nota 1, é fácil.
+2:37 Se você consegue comprar algo pela
+2:38 internet, também consegue abrir uma conta.
+2:40 Quanto ao esforço contínuo,
+2:41 surpresa, surpresa,
+2:42 nota 1.
+2:43 Você pode depositar uma boa quantia e
+2:45 simplesmente deixar o dinheiro lá,
+2:47 ou configurar uma transferência
+2:48 automática para destinar uma parte
+2:49 fixa do seu salário à sua conta de
+2:51 alto rendimento todos os meses.
+2:53 E, por fim, quanto ao potencial de
+2:55 ganhos, adivinha?
+2:56 Também dou nota 1.
+2:57 Para ganhar $100 USD por semana em
+2:59 renda passiva de uma conta de poupança
+3:01 de alto rendimento pagando 4,2%,
+3:04 você precisaria de cerca de
+3:06 $123,810 USD na conta.
+3:10 Embora isso seja muito passivo,
+3:12 o potencial de ganho é limitado.
+3:14 Para fazer o seu dinheiro render mais,
+3:16 precisamos deixar de apenas guardá-lo
+3:18 e começar a investi-lo.
+3:25 E se Coca-Cola, o McDonald's e
+3:29 centenas de outras empresas te
+3:31 pagassem um pouquinho dos lucros a
+3:32 cada trimestre direto na sua conta
+3:34 bancária, sem que você tivesse que
+3:36 fazer nenhum trabalho para elas?
+3:37 É exatamente isso que você pode
+3:38 conseguir com ações que pagam dividendos.
+3:40 Veja, quando algumas empresas têm
+3:41 lucro, elas escolhem pagar parte dele
+3:44 para as pessoas que possuem ações do negócio.
+3:46 Isso se chama dividendo.
+3:47 Você poderia comprar ações da
+3:49 Coca-Cola, do McDonald's e de várias
+3:51 outras empresas que pagam dividendos
+3:53 individualmente.
+3:54 Mas aí você teria que decidir em quais
+3:56 empresas investir,
+3:58 quanto colocar em cada uma,
+4:00 E é dependendo muito mais da
+4:01 performance dessas empresas
+4:02 individuais em continuar a lucrar e
+4:04 pagar seus dividendos.
+4:05 É aí que entram os ETFs.
+4:09 Um ETF, ou Fundo de Índice Negociado
+4:11 em Bolsa, é basicamente uma cesta
+4:13 cheia de investimentos que você pode
+4:15 comprar de uma vez.
+4:17 E um ETF de dividendos é aquele que
+4:20 foca especificamente em empresas que
+4:21 pagam, adivinha, dividendos.
+4:23 Então, em vez de escolher várias
+4:25 empresas que pagam dividendos sozinho,
+4:26 um fundo pode espalhar seu dinheiro
+4:28 por centenas, às vezes até milhares de
+4:31 empresas diferentes por você.
+4:32 Assim, se uma empresa corta seu
+4:33 dividendo, o impacto geralmente é
+4:35 muito menor do que se você tivesse
+4:37 investido pesado naquela única empresa.
+4:39 Então, deixa eu te mostrar como
+4:41 investir em um.
+4:42 Na Trading 2&2, vamos procurar um ETF
+4:45 de dividendos.
+4:46 Isso é bem parecido na maioria das
+4:48 plataformas de investimento.
+4:50 Agora, esse ETF da Vanguard,
+4:51 FTSE, a World Height Dividend Yield,
+4:54 vai ser uma boa escolha.
+4:55 Agora, eu gosto deste porque ele foca
+4:57 especificamente em empresas que pagam
+4:59 dividendos acima da média.
+5:01 Mas, como elas estão espalhadas por
+5:03 vários países do mundo todo,
+5:05 não ficamos tão dependentes do bom
+5:06 desempenho de uma única economia.
+5:08 Agora, vamos clicar em Comprar.
+5:13 Investir £100.
+5:15 E sim, tudo parece bem.
+5:17 Então, enviar ordem de compra.
+5:20 Ok, legal.
+5:21 Tudo pronto.
+5:22 Como já estava planejando falar sobre
+5:24 a Trading 2&2 de qualquer forma,
+5:26 entrei em contato com eles para ver se
+5:27 eles estariam interessados em
+5:28 patrocinar essa parte do vídeo.
+5:30 Eles concordaram e estão oferecendo
+5:31 ações fracionadas gratuitas no valor
+5:33 de até £100 para quem usar o código
+5:35 TILBERRY ao criar uma conta.
+5:37 Além disso, você pode ganhar mais
+5:39 convidando seus amigos.
+5:40 Ambos ganharão ações fracionadas
+5:42 gratuitas desde que financeiem suas contas.
+5:44 E não se preocupe se você já abriu uma
+5:46 conta nos últimos 10 dias.
+5:47 Você ainda pode usar o código
+5:49 promocional TILBERRY no aplicativo e
+5:51 receber suas ações fracionadas gratuitas.
+5:53 Agora, hora das avaliações.
+5:55 Quanto ao capital necessário do Nota 1?
+5:57 Você pode começar com apenas $1 USD.
+6:00 Então, não precisa de muito dinheiro
+6:01 para dar o primeiro passo.
+6:03 Para o esforço de configuração,
+6:04 isso recebe Nota 1.
+6:05 Pois é bem fácil baixar um aplicativo
+6:07 de investimento e usar um ETF em vez
+6:09 de tentar escolher ações individuais
+6:10 que pagam dividendos.
+6:12 Isso torna tudo ainda mais fácil.
+6:13 Para o esforço contínuo,
+6:14 também é Nota 1,
+6:16 porque você pode realmente automatizar
+6:17 seus investimentos.
+6:18 Então, nunca mais precisar pensar
+6:20 sobre isso.
+6:20 E quanto ao potencial de ganhos,
+6:22 temos nosso primeiro 2.
+6:24 O ETF em que investimos anteriormente
+6:26 atualmente oferece um rendimento de 2,97%.
+6:29 Você também possui as ações em si,
+6:31 então, se elas se valorizarem,
+6:32 você pode ganhar dinheiro com esse
+6:33 crescimento também.
+6:34 Mas como estamos apenas falando de
+6:36 renda passiva, com um investimento de
+6:38 2,97%, você precisaria de
+6:40 aproximadamente US$175 mil investidos
+6:44 para gerar US$100 por semana.
+6:46 Sei o que você está pensando.
+6:47 Esses primeiros dois níveis
+6:48 são ótimos se você já tem dinheiro
+6:50 para poupar e investir.
+6:51 Mas e se você começar com US$0?
+6:53 Bem, nesse caso, faz muito mais
+6:55 sentido começar a usar a IA em vez do
+6:58 seu dinheiro para construir ativos.
+7:00 O que me leva a...
+7:05 Imagine se você pudesse fazer renda
+7:07 passiva vendendo produtos que nem
+7:08 existem até alguém fazer um pedido.
+7:11 Isso é totalmente possível com a
+7:12 impressão sob demanda com o IA.
+7:14 Você cria um design uma vez,
+7:16 coloca em camisetas,
+7:17 bonés ou como fiz aqui,
+7:19 em pôsteres.
+7:19 Quando alguém faz um pedido,
+7:20 a própria plataforma imprime e envia o
+7:22 produto para você.
+7:23 Assim, não é preciso comprar estoque.
+7:25 Isso significa que você pode começar
+7:26 com muito pouco dinheiro.
+7:28 Crie algo uma vez e continue ganhando
+7:29 com isso repetidamente.
+7:31 Vamos criar um produto juntos para que
+7:32 eu possa mostrar como é simples.
+7:35 Existem algumas plataformas que
+7:36 poderíamos usar aqui,
+7:37 mas, para esse exemplo,
+7:38 vou usar o Gelato.
+7:40 Isso não é patrocinado,
+7:41 aliás, e existem sites alternativos,
+7:43 mas já usei essas ferramentas antes e
+7:46 é bem simples, para ser honesto.
+7:47 Primeiro, vamos clicar em criar um
+7:49 produto no canto superior direito e,
+7:52 depois, criar um modelo.
+7:54 Há uma infinidade de produtos
+7:55 diferentes aqui, mas vou manter bem
+7:57 simples, escolher os mais vendidos e
+7:59 optar por um.
+8:00 por uma camiseta clássica de gola redonda.
+8:02 Podemos escolher entre várias cores
+8:04 diferentes, mas vou ficar com o preto
+8:07 porque é simples e elegante.
+8:09 Agora, ele quer que adicionemos nosso
+8:11 design, então,
+8:12 precisamos pensar em algo que
+8:13 realmente atraia as pessoas.
+8:16 Então...
+8:17 Parece que há muitas camisetas do
+8:19 Superman aqui, mas, a menos que esses
+8:21 vendedores tenham realmente pedido
+8:22 permissão para usar o Homem de Aço,
+8:25 eles podem acabar tendo problemas legais.
+8:27 Mas, isso me mostrou que há demanda
+8:29 por personagens famosos,
+8:30 então, tenho uma ideia.
+8:32 Existe uma pequena brecha legal que
+8:33 podemos explorar,
+8:34 chamada domínio público.
+8:36 Uma vez que um personagem entra no
+8:37 domínio público, o copyright original
+8:39 expira, o que significa que você pode
+8:41 usar esse personagem sem pedir permissão.
+8:43 E eu tenho o perfeito image,
+8:46 Sherlock Holmes,
+8:47 porque acho que podemos fazer bastante
+8:48 coisa com ele.
+8:49 Me dê 20 slogans engraçados para
+8:54 camisetas, baseados na versão
+8:56 literária de domínio público de
+8:58 Sherlock Holmes.
+9:01 Certo, temos crime resolvido,
+9:04 habilidades sociais pendentes.
+9:05 Agora, precisamos de um design real.
+9:09 Pensei que precisaria fazer isso
+9:11 algumas vezes para conseguir algo bom
+9:12 o suficiente, mas isso,
+9:14 na verdade, ficou muito bom.
+9:15 Vamos fazer o download e voltar para o gelato.
+9:19 Agora, vamos apenas arrastar e soltar
+9:21 nosso design na camiseta.
+9:23 Se fôssemos realmente vender isso,
+9:24 continuaríamos seguindo todas essas etapas.
+9:27 Adicionaríamos o título,
+9:28 a descrição e o preço,
+9:29 e depois conectaríamos tudo ao eBay.
+9:31 Agora, para as avaliações.
+9:34 Quanto ao capital necessário,
+9:35 dou nota 1.
+9:36 Essa é uma das melhores partes,
+9:37 porque você não precisa comprar nenhum
+9:39 estoque antecipadamente.
+9:40 Quanto à facilidade de configuração,
+9:42 dou nota 2.
+9:44 É preciso fazer um certo trabalho no
+9:46 início, porque você precisa encontrar
+9:48 um nicho, criar um design e configurar tudo.
+9:50 Mas, como acabamos de ver,
+9:52 a IA pode facilitar bastante esse processo.
+9:54 Para o esforço contínuo,
+9:56 estou dando nota 2.
+9:58 Depois que tudo estiver conectado à
+9:59 plataforma de impressão sob demanda
+10:00 que você escolheu,
+10:01 cuida de todo o processo de produção e envio.
+10:03 E, por fim, quanto ao potencial de
+10:05 ganhos, dou nota 3.
+10:08 Isso tem muito mais potencial em
+10:10 comparação com o capital necessário do
+10:12 que algo como uma conta de poupança ou
+10:14 ações que pagam dividendos,
+10:15 porque apenas um design de sucesso
+10:17 pode potencialmente vender centenas ou
+10:19 até milhares de vezes.
+10:20 Veja esta loja, por exemplo.
+10:21 Ela realizou cerca de 5.700 vendas em
+10:24 apenas dois anos.
+10:26 Se o valor médio do pedido fosse cerca
+10:28 de $24 USD, isso daria cerca de
+10:30 $136,800 USD em vendas totais.
+10:34 Mas, claro, isso não é tudo lucro.
+10:36 Então, para a nossa meta de $100 USD
+10:37 por semana, se tivermos uma margem de
+10:40 lucro de cerca de 30% em um pedido de
+10:42 $24 USD, faremos cerca de $720 USD por venda.
+10:47 Isso significa que precisaríamos de
+10:48 apenas cerca de 14 vendas por semana
+10:51 para atingir a nossa meta de $100 USD.
+10:58 Quando se trata de e-commerce,
+10:59 isso é provavelmente o mais passivo
+11:00 que você pode conseguir.
+11:01 Você pode usar IA para construir a
+11:03 loja online, encontrar produtos
+11:05 vencedores e, depois que alguém faz um
+11:07 pedido, enviar automaticamente os
+11:09 produtos para seus clientes.
+11:10 É bem tranquilo,
+11:11 porque você pode fazer tudo pelo seu
+11:13 laptop e nunca precisa tocar em um
+11:15 único produto.
+11:15 Então, deixe-me mostrar como
+11:16 configurar uma loja rapidinho.
+11:18 Vou começar acessando essa ferramenta
+11:20 gratuita chamada Build Your Store.
+11:22 Vou deixar o link na descrição,
+11:24 se você quiser acompanhar.
+11:26 Primeiro, vou clicar em Build My Free Store.
+11:29 Isso me leva ao login,
+11:31 então, vou me conectar rapidamente aqui.
+11:36 Ok, agora está pedindo para
+11:38 reivindicar minha loja,
+11:39 então, vou clicar nisso.
+11:40 E agora, podemos escolher que tipo de
+11:43 loja queremos construir.
+11:44 Temos moda e vestuário,
+11:46 animais de estimação,
+11:46 eletrônicos e gadgets,
+11:48 esportes e fitness,
+11:49 mas, para este exemplo,
+11:51 vamos com casa e jardim.
+11:52 Agora, ele está me dando alguns
+11:54 banners diferentes para a página inicial.
+11:57 Na verdade, gostei bastante deste aqui.
+12:00 E acho que suprimentos para jardinagem
+12:02 vou vender muito bem.
+12:04 E agora isso é realmente uma das
+12:05 melhores coisas sobre usar o Build
+12:07 Your Store.
+12:08 Ele te dá um ótimo desconto na Shopify
+12:10 que é a plataforma número 1 do mundo
+12:12 que hospeda lojas online.
+12:14 É gratuita pelos primeiros 3 dias e
+12:15 depois apenas $1 USD por mês nos
+12:17 próximos 3 meses.
+12:18 Agora vou passar rapidamente pelos
+12:21 próximos passos pois é bem
+12:23 auto-explicativo para ser honesto.
+12:32 Certo, a EA agora está personalizando
+12:34 nossa loja.
+12:35 Então o próximo passo é adicionar
+12:37 alguns produtos vencedores.
+12:38 Para fazer isso,
+12:39 precisamos clicar neste botão que diz
+12:41 cadastrar-se no AutoDS.
+12:44 E como vocês podem ver,
+12:45 custa apenas 99 centavos para começar.
+12:48 Então isso adicionará muitos produtos
+12:49 vencedores automaticamente a nossa
+12:51 nova loja Shopify e conectará nossos
+12:53 produtos com E aí está.
+12:56 Bem, isso foi bem fácil.
+12:58 Como pode ver, o AutoDS já preencheu a
+13:01 loja com produtos com base no nicho
+13:02 que escolhemos e muitos desses
+13:04 realmente se encaixam bem na marca.
+13:06 Se você tentar isso e houver algo que
+13:08 você não goste, é super fácil procurar
+13:09 no AutoDS por produtos vencedores
+13:11 alternativos e fazer algumas pesquisas
+13:13 no banco de dados com o conector cloud deles.
+13:15 Mas essas coisas só levam algumas
+13:17 horas para ajustar.
+13:18 Agora para as avaliações.
+13:21 Quanto capital necessário,
+13:22 dou nota 2.
+13:23 Porque você não precisa comprar um
+13:25 monte de produtos antes de saber se
+13:27 alguém tem interesse neles.
+13:28 Eu fiz toda essa configuração por
+13:30 apenas 99 centavos.
+13:31 Não pode ser nota 1 de 5,
+13:33 porque provavelmente você vai precisar
+13:34 de algum dinheiro para comprar
+13:35 produtos de amostra e criar vídeos de
+13:37 marketing orgânico.
+13:38 Para o esforço de configuração,
+13:40 também estou dando nota 2.
+13:41 No passado, se você fosse construir
+13:43 uma loja como essa,
+13:44 teria levado muito tempo e sido bem difícil.
+13:46 Mas o StoreBuilder de IEA torna isso
+13:49 incrivelmente fácil,
+13:50 pois faz praticamente toda a
+13:51 configuração para você.
+13:52 Para o esforço contínuo,
+13:54 estou dando um 3.
+13:56 Porque você ainda precisa fazer um
+13:58 pouco de marketing,
+13:59 testar produtos e descobrir o que
+14:00 realmente está vendendo.
+14:01 E, finalmente, para o potencial de renda.
+14:04 Vamos dar nota 3.5.
+14:08 Com o produto certo e uma loja com
+14:10 aparência profissional,
+14:10 você definitivamente pode fazer uma
+14:12 boa renda passiva aqui.
+14:14 Para uma meta de $100 USD por semana,
+14:16 na verdade, posso usar alguns números
+14:18 reais e o desafio que fiz aqui.
+14:20 Montei uma loja de produtos fitness e
+14:21 um dos produtos eram esses pequenos
+14:23 treinadores respiratórios que você usa
+14:25 para tornar os exercícios mais difíceis.
+14:27 Depois das minhas despesas,
+14:29 estava ganhando cerca de $8 USD de
+14:31 lucro cada vez que vendia um.
+14:32 Então, para fazer cerca de $100 USD
+14:34 por semana, precisaria de
+14:35 aproximadamente 13 vendas.
+14:38 Como eu queria usar o AutoDies para
+14:40 esse método de qualquer forma,
+14:42 perguntei a eles se eles queriam
+14:43 patrocinar essa parte do vídeo.
+14:44 Eles disseram que sim.
+14:46 Então, deixei o link deles na
+14:46 descrição do vídeo se você quiser conferir.
+14:53 Uma das melhores oportunidades de
+14:56 renda passiva que já existiu é uma
+14:57 marca pessoal.
+14:59 E, sim, isso significa mostrar seu rosto.
+15:02 Sei que isso assusta muitas pessoas,
+15:03 mas é também por isso que há menos
+15:05 concorrência.
+15:06 Você não precisa ser um expert também.
+15:08 Você pode simplesmente documentar o
+15:09 que está aprendendo,
+15:10 construindo e melhorando.
+15:12 Comecei esse canal para compartilhar o
+15:14 que sabia.
+15:15 Não porque achava que teria milhões de
+15:17 inscritos, mas ao longo dos últimos
+15:18 cinco anos, minha marca pessoal gerou
+15:20 mais de 10 milhões de dólares.
+15:23 Essa renda nunca foi a principal razão
+15:25 pela qual eu fiz isso,
+15:26 mas mostra o quão valiosa uma marca
+15:28 pessoal pode se tornar se você persistir.
+15:30 Então, como você realmente faz isso?
+15:32 Bem, vamos usar este vídeo como exemplo.
+15:35 Como gravar entrevistas gastando menos
+15:37 de $1,500 USD.
+15:39 O vídeo tem apenas cerca de 150 mil
+15:41 visualizações, mas por atingir a um
+15:43 público muito específico,
+15:45 pode gerar renda de várias maneiras
+15:46 diferentes.
+15:47 Primeiro, é a receita de anúncios.
+15:49 Para esse tipo de conteúdo,
+15:50 150 mil visualizações poderiam
+15:52 significar cerca de $2,501 USD.
+15:55 E isso pode continuar crescendo à
+15:56 medida que os vídeos recebem mais
+15:57 visualizações.
+15:58 Então, se olharmos na descrição...
+16:00 Há um patrocinador,
+16:01 produtos digitais e links de afiliados
+16:04 para o equipamento que ele recomenda.
+16:06 Assim, um único vídeo pode continuar
+16:07 gerando dinheiro com anúncios,
+16:09 patrocínios, produtos e comissões
+16:10 muito tempo depois de ser publicado.
+16:12 E você poderia fazer o mesmo em torno
+16:14 de algo que já sabe,
+16:16 ou simplesmente documentar algo que
+16:17 está aprendendo ao longo do caminho.
+16:19 Ok, agora para as avaliações.
+16:21 Quanto ao capital necessário,
+16:23 dê um nota 2.
+16:25 Você pode realmente começar com o
+16:27 celular que já tem, e isso pode ser
+16:29 uma vantagem porque mantém as coisas
+16:30 com uma aparência natural.
+16:32 Uma vez que você ganha um pouco de
+16:33 impulso, você sempre pode atualizar
+16:35 para um microfone melhor ou uma boa
+16:36 iluminação, mas isso não é uma
+16:38 desculpa para não começar.
+16:39 Para o esforço de configuração,
+16:41 vamos de 2.
+16:42 Você poderia filmar seu primeiro vídeo
+16:44 hoje, especialmente com conteúdos de
+16:46 formato curto como Instagram Reels e
+16:47 YouTube Shorts.
+16:48 Uma vez que você entende o que faz o
+16:50 conteúdo funcionar,
+16:51 criar e postar se torna muito mais fácil.
+16:54 Sei disso em primeira mão,
+16:55 depois de fazer minha marca crescer
+16:56 para mais de 20 milhões de seguidores
+16:57 e 4,8 bilhões de visualizações.
+17:00 Se você quiser um pouco de ajuda com
+17:01 sua própria marca pessoal,
+17:03 vou enviar alguns segredos dos
+17:04 bastidores que nunca compartilhei
+17:06 antes, completamente grátis.
+17:08 Se isso te interessa,
+17:09 vou deixar o link na descrição.
+17:11 Para o esforço contínuo,
+17:12 estou dando um 3.
+17:15 Porque se você quiser que a marca
+17:17 continue crescendo,
+17:18 precisa continuar criando.
+17:19 Mas lembre-se,
+17:20 enquanto você está fazendo coisas
+17:21 novas, as coisas antigas ainda podem
+17:23 estar sendo descobertas.
+17:24 E para o potencial de renda,
+17:25 isso recebe um 5.
+17:28 Porque uma vez que você construiu uma
+17:30 audiência que confia em você,
+17:31 não está dependendo de uma única forma
+17:33 de ser pago.
+17:34 Para nossa meta de $100 USD por
+17:35 semana, vamos usar apenas os anúncios
+17:37 do YouTube, porque é o mais fácil de medir.
+17:40 Se um canal estivesse ganhando cerca
+17:42 de $10 USD para cada mil visualizações
+17:44 de formato longo, você precisaria de
+17:46 aproximadamente 10 mil visualizações
+17:48 por semana para fazer $100 USD com anúncios.
+17:50 E lembre-se, isso são apenas anúncios,
+17:53 não inclui a renda de afiliados,
+17:55 patrocinadores ou vendas de qualquer
+17:57 coisa que você mesmo tenha criado.
+17:59 E é por isso que isso recebe um 5.
+18:04 Esse próximo nível é sobre usar o IA
+18:06 para criar um aplicativo para você.
+18:08 E o potencial de lucro é enorme,
+18:10 porque você pode fazer com que a IA
+18:12 construa uma vez, e então os mesmos
+18:14 clientes continuem pagando todo mês
+18:16 para usá-lo.
+18:17 Até recentemente, isso teria sido
+18:19 inalcançável por muitas pessoas,
+18:21 pois você precisava saber programar ou
+18:23 pagar alguém que soubesse.
+18:24 E acredite,
+18:25 programadores de computador
+18:26 são muito caros, mas,
+18:29 felizmente, agora isso mudou
+18:29 completamente.
+18:30 Com o VibeCoding, você pode descrever
+18:32 o aplicativo que deseja em linguagem
+18:34 simples, e a IA pode construir uma
+18:35 versão funcional para você.
+18:37 Vamos experimentar.
+18:38 Para isso, vou usar o Base44.
+18:40 Isso não é patrocinado,
+18:41 e agora existem muitos construtores de
+18:43 aplicativos com IA por aí.
+18:45 Então, você tem algumas opções para escolher.
+18:47 Vou clicar em criar seu aplicativo,
+18:50 e agora preciso de algo para construir.
+18:52 Um dos maiores erros que eu vejo as
+18:54 pessoas cometendo repetidamente é
+18:55 criar aplicativos voltados para o
+18:57 público em geral, como um aplicativo
+18:59 de transporte ou um aplicativo fitness
+19:01 genérico.
+19:02 Nesses casos, você está competindo com
+19:04 os grandes como a Uber ou o
+19:06 MyFitnessPal.
+19:07 Em vez disso, se você realmente quer
+19:08 gerar renda passiva,
+19:10 precisa construir um aplicativo que
+19:11 resolva um problema muito específico
+19:12 para o proprietário de negócios,
+19:14 pois os usuários,
+19:15 normalmente, têm orçamentos maiores.
+19:16 E quando o seu aplicativo passa a
+19:18 fazer parte da rotina de trabalho,
+19:19 as pessoas começam a depender dele e
+19:20 continuam pagando pelo serviço todo mês.
+19:22 Então, vamos focar nos instrutores de direção.
+19:25 Eles têm um problema bem claro.
+19:27 Podem estar dando aulas para 20 ou 30
+19:28 alunos ao mesmo tempo,
+19:29 e precisam encontrar uma maneira de
+19:31 acompanhar o progresso de cada um.
+19:33 Ok, então pedi ao chat GPT para fazer
+19:35 um prompt detalhado descrevendo o que
+19:38 quero que o aplicativo faça.
+19:39 Então, vamos pegar isso e colar no Base44.
+19:44 Agora, vamos ver o que ele constrói.
+19:49 Ok, e lá temos.
+19:51 Então, se chama Clutch,
+19:52 que é um nome bem legal para um
+19:54 aplicativo de instrutor de direção.
+19:57 Parece que temos um painel aqui para
+19:58 todos os alunos ativos.
+20:00 e suas estatísticas, e podemos clicar
+20:03 nesses perfis e brincar com os toggles dentro.
+20:07 Posso ver esse pin,
+20:09 muito útil para os instrutores de direção.
+20:11 É realmente simples mudar as coisas também.
+20:14 Podemos apenas digitar aqui no chat e
+20:15 ele deve atualizar o aplicativo para nós.
+20:18 Então, por exemplo,
+20:19 vou dizer...
+20:21 Faça isso em modo escuro e adicione a
+20:27 capacidade de um aluno agendar uma
+20:30 nova lição diretamente no calendário.
+20:34 Isso parece ótimo.
+20:36 Eu, para ser honesto,
+20:37 não consigo acreditar o quão
+20:39 rapidamente ele fez essas mudanças.
+20:41 Agora, para as avaliações.
+20:43 Para o capital necessário,
+20:44 vou dar nota 3.
+20:48 Comparado ao que teria custo para
+20:49 contratar desenvolvedores para
+20:51 construir algo há alguns anos,
+20:52 isso é muito acessível e os custos de
+20:54 configuração são bem baixos.
+20:56 Mas você precisará gastar algum
+20:57 dinheiro em marketing do aplicativo,
+20:59 a menos que já esteja construindo uma
+21:01 marca pessoal.
+21:01 Então, para esse forço de
+21:02 configuração, é um 3.
+21:06 Como você viu, a IA tornou a
+21:08 construção do aplicativo muito mais fácil.
+21:10 Mas você ainda precisa encontrar um
+21:11 problema que vale a pena resolver,
+21:13 fazer tudo funcionar corretamente e
+21:14 depois provar que as pessoas realmente
+21:15 o querem.
+21:16 Para esforço contínuo,
+21:18 é nota 3.
+21:20 Uma vez que alguém se inscreve,
+21:22 você não está entregando pessoalmente
+21:23 um serviço a eles todo mês,
+21:24 o que é, obviamente,
+21:25 ótimo, mas o aplicativo ainda precisa
+21:27 de manutenção.
+21:28 Os clientes podem precisar de ajuda e
+21:30 você continuará fazendo melhorias à
+21:31 medida que aprende o que as pessoas
+21:33 realmente querem.
+21:34 E, finalmente, para o potencial de renda.
+21:37 Estou dando nota 5.
+21:40 Porque, uma vez que você constrói algo
+21:41 em que as empresas dependem,
+21:42 pode continuar adicionando novos
+21:44 usuários sem ter que reconstruir um
+21:46 produto para cada pessoa que se junta
+21:47 a ele.
+21:47 Então, para nossa meta de $100 USD por
+21:50 semana, vamos usar o Clutch.
+21:51 Para um aplicativo de instrutor de
+21:52 direção como esse,
+21:54 acho que cerca de $29 USD por mês
+21:56 seria um preço inicial bem razoável.
+21:58 Se o aplicativo ajuda a gerenciar os
+22:00 alunos, economizar tempo na
+22:01 organização das aulas e oferecer um
+22:03 serviço melhor aos clientes,
+22:04 esse é o valor que qualquer negócio
+22:05 consegue justificar com facilidade.
+22:07 Se você conseguir 15 assinantes
+22:09 pagando cerca de $29 USD por mês,
+22:11 você estaria ganhando um pouco mais de
+22:14 $100 USD por semana em renda passiva.
+22:16 Mas, em vez de alguém te pagar $29 USD
+22:19 por mês para usar seu aplicativo,
+22:21 imagine que eles estão te pagando
+22:22 centenas ou até milhares de dólares
+22:24 por mês para usar um ativo que você
+22:26 possui, enquanto esse ativo também
+22:28 pode estar valorizando ao mesmo tempo.
+22:30 E isso me leva a...
+22:37 Essa ideia de que imóveis
+22:39 são a máquina definitiva de renda passiva.
+22:42 Você compra uma casa,
+22:43 aluga e depois fica sentado enquanto o
+22:45 dinheiro entra todo mês.
+22:46 Mas a maioria das pessoas torna tudo
+22:48 muito mais trabalhoso do que precisa ser.
+22:50 Às vezes, as contas nem fecham.
+22:52 Vou mostrar para você.
+22:53 Uma casa típica nos Estados Unidos
+22:56 vale aproximadamente $370,000 USD.
+23:00 E se você der uma entrada de 20 por
+23:01 cento, precisará desembolsar
+23:03 $74,000 USD do próprio bolso.
+23:06 Com uma taxa de juros de cerca de 7
+23:08 por cento, a prestação do
+23:09 financiamento ficará em torno de
+23:10 $1,970 USD por mês.
+23:13 E o aluguel de uma casa unifamiliar
+23:15 típica fica em torno de $2,289 USD por mês.
+23:21 À primeira vista, isso parece gerar um
+23:23 lucro de cerca de $320 USD.
+23:25 Mas ainda existem despesas,
+23:26 como custo de manutenção e taxa de
+23:27 administração.
+23:28 Se reservarmos cerca de 1 por cento do
+23:30 valor do imóvel por ano para
+23:31 manutenção, além de 8 por cento do
+23:33 aluguel para administração,
+23:34 isso representa mais $500 USD por mês,
+23:36 aproximadamente.
+23:37 O que te deixa com cerca de menos
+23:39 $180 USD por mês.
+23:43 E lembre-se, ainda não consideramos
+23:45 período sem inquilino ou o dia em que
+23:47 algo incomum e caro decidir quebrar.
+23:50 Agora, obviamente,
+23:51 bons investidores imobiliários
+23:52 conseguem encontrar negócios onde
+23:54 esses números funcionam muito melhor.
+23:55 Mas esse é o ponto.
+23:56 Você não pode simplesmente comprar uma
+23:58 casa média, alugá-la e assumir que...
+24:00 e criou uma renda passiva.
+24:01 Então, isso significa que imóveis
+24:03 são um mau investimento?
+24:04 De jeito nenhum!
+24:05 Seu inquilino está te ajudando a pagar
+24:07 sua dívida e esperamos que o próprio
+24:09 imóvel se torne mais valioso ao longo
+24:11 do tempo.
+24:11 Historicamente, os preços das casas
+24:13 nos Estados Unidos cresceram cerca de
+24:14 4,5% ao ano desde 2001.
+24:17 A essa taxa, nossa casa de US$370 mil
+24:21 valeria cerca de US$575 mil após 10 anos.
+24:26 Portanto, é realmente ótimo para
+24:27 construir riqueza, mas este vídeo é
+24:29 sobre renda passiva,
+24:30 que é o dinheiro que realmente entra
+24:32 na sua conta bancária.
+24:33 Então, como faço a propriedade fazer isso?
+24:36 Bem, esta é uma das minhas unidades
+24:38 comerciais.
+24:40 Vamos comparar usando os mesmos
+24:41 números exatos.
+24:43 Comprei essa propriedade por cerca de
+24:45 US$200 mil e paguei tudo em dinheiro.
+24:50 Então, isso também é mais ou menos
+24:51 quanto do dinheiro foi para a
+24:53 propriedade adiantado,
+24:55 o que significa que o meu pagamento de
+24:57 hipoteca é zero.
+24:59 Quando comprei pela primeira vez,
+25:00 o aluguel era cerca de US$1.850 por mês.
+25:03 Hoje, está em torno de US$3.600 por mês.
+25:08 E devido à forma como o meu contrato
+25:09 comercial é estruturado,
+25:11 o inquilino é responsável pela
+25:12 manutenção e reparos.
+25:14 Isso também significa que não preciso
+25:16 de uma imobiliária para cuidar dessas
+25:17 questões por mim.
+25:18 Então, quanto às outras despesas que
+25:20 incluímos no imóvel residencial, zero.
+25:22 O que significa que,
+25:24 sem pagamento de hipoteca,
+25:25 esses US$3.600 por mês em aluguel
+25:28 são efetivamente o que sobra antes dos
+25:30 impostos e de quaisquer outros custos
+25:32 específicos do proprietário que não
+25:33 incluímos em nenhum dos exemplos.
+25:35 Mas tem outra parte que nem colocamos
+25:37 nesta página.
+25:38 O prédio passou de valer cerca de
+25:40 US$200 mil quando comprei para
+25:43 aproximadamente US$630 mil hoje.
+25:46 Então, tive uma renda entrando
+25:48 enquanto o ativo em si aumentou de valor.
+25:50 É por isso que os imóveis podem ser
+25:52 brilhantes para construir riqueza e
+25:53 renda passiva.
+25:54 Só que não necessariamente fazem os
+25:56 dois desde o primeiro dia.
+25:57 Agora, para as avaliações.
+26:00 Para capital necessário,
+26:01 isso é um óbvio 5.
+26:04 Imóveis exigem um capital considerável
+26:06 se você quiser ter um bom fluxo de caixa.
+26:08 Para o esforço de configuração,
+26:09 estou dando um 4.
+26:13 Há bastante coisa envolvida em
+26:14 encontrar um imóvel certo,
+26:16 fazer suas verificações,
+26:17 resolver a parte legal e conseguir um
+26:18 inquilino certo.
+26:19 Para o esforço contínuo,
+26:20 estou dando nota 2.
+26:23 Um aluguel normal pode exigir mais
+26:25 trabalho, mas a gestão pode ser
+26:27 terceirizada.
+26:28 Já um imóvel comercial como este pode
+26:29 gerar renda praticamente sem exigir
+26:30 sua participação.
+26:31 E, por fim, vamos ao potencial de ganhos.
+26:34 Estou dando isso, nota 5.
+26:37 Você já viu quanto algo assim pode gerar.
+26:39 Então, o que realmente seria
+26:41 necessário para fazer US$100 por
+26:43 semana com imóveis?
+26:43 Se você fosse dono de um imóvel
+26:45 quitado, uma forma simples de calcular
+26:46 seria considerar que um bom imóvel
+26:48 para aluguel pode gerar uma renda
+26:50 anual equivalente a cerca de 7% a 8%
+26:51 do seu valor.
+26:53 Então, um imóvel de US$100 mil poderia
+26:55 trazer cerca de US$7.500 por ano ou
+26:58 cerca de US$625 por mês.
+27:01 Então, uma vez que tiramos os custos
+27:03 contínuos, você poderia ficar com
+27:04 cerca de US$100 por semana.
+27:06 Então, se você quisesse ganhar cerca
+27:08 de US$100 por semana em renda
+27:09 realmente passiva com um imóvel,
+27:11 provavelmente precisaria ter um imóvel
+27:13 quitado em uma boa região,
+27:15 avaliado em aproximadamente US$100 mil.
+27:17 Se você quer aprender as maneiras mais
+27:19 preguiçosas de ganhar dinheiro com o
+27:21 IAPA para iniciantes,
+27:21 vou deixar este vídeo bem ali,
+27:23 mas não clique nele ainda.
+27:25 Certifique-se de que está inscrito se
+27:26 quiser aumentar sua riqueza,
+27:27 está bom?
+27:28 Te vejo lá!
